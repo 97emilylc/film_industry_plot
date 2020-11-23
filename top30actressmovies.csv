@@ -1,0 +1,760 @@
+,focus_actress,release_date,title,popularity,revenue,vote_average,vote_count,genre_name,age_at_release
+0,Susan Sarandon,1974-12-01,The Front Page,4.117968,0.0,6.9,68.0,Romance,28.0
+1,Susan Sarandon,1992-08-21,Light Sleeper,6.063868,0.0,5.7,15.0,Drama,46.0
+2,Susan Sarandon,1994-07-20,The Client,17.746719,117615211.0,6.4,278.0,Drama,48.0
+3,Susan Sarandon,1994-12-21,Little Women,16.418639000000002,0.0,7.0,215.0,Drama,48.0
+4,Susan Sarandon,1995-12-29,Dead Man Walking,15.864927999999999,39363635.0,7.3,337.0,Drama,49.0
+5,Susan Sarandon,1998-05-21,Illuminata,0.11131300000000001,0.0,6.3,7.0,Drama,52.0
+6,Susan Sarandon,1998-12-25,Stepmom,16.368282999999998,0.0,6.9,277.0,Drama,52.0
+7,Susan Sarandon,1999-11-12,Anywhere But Here,8.976738000000003,18653615.0,5.9,66.0,Drama,53.0
+8,Susan Sarandon,2000-09-14,Rugrats in Paris: The Movie,4.5902769999999995,103.0,6.0,100.0,Adventure,54.0
+9,Susan Sarandon,2001-07-04,Cats & Dogs,18.735024,93375151.0,5.0,352.0,Comedy,55.0
+10,Susan Sarandon,2002-09-09,Moonlight Mile,8.982335,10011050.0,6.5,52.0,Romance,56.0
+11,Susan Sarandon,2002-09-13,Igby Goes Down,2.062087,4777465.0,6.5,95.0,Comedy,56.0
+12,Susan Sarandon,2002-09-20,The Banger Sisters,6.015354,0.0,5.5,62.0,Comedy,56.0
+13,Susan Sarandon,2004-10-15,Shall We Dance?,14.231898999999999,170128460.0,5.9,297.0,Drama,58.0
+14,Susan Sarandon,2004-10-22,Alfie,15.219263,13395939.0,5.6,248.0,Comedy,58.0
+15,Susan Sarandon,2005-09-13,Romance & Cigarettes,4.056774,2945242.0,6.0,33.0,Comedy,59.0
+16,Susan Sarandon,2005-10-06,Elizabethtown,22.894898,52034889.0,6.1,327.0,Comedy,59.0
+17,Susan Sarandon,2007-08-31,In the Valley of Elah,15.676123,29541790.0,6.6,261.0,History,61.0
+18,Susan Sarandon,2007-11-20,Enchanted,29.21998,340487652.0,6.6,1449.0,Comedy,61.0
+19,Susan Sarandon,2008-05-09,Speed Racer,17.060695000000006,93945766.0,5.7,354.0,Action,62.0
+20,Susan Sarandon,2009-01-17,The Greatest,6.903186,0.0,6.2,34.0,Drama,63.0
+21,Susan Sarandon,2009-09-07,Solitary Man,7.497306,5024782.0,5.8,84.0,Comedy,63.0
+22,Susan Sarandon,2009-12-26,The Lovely Bones,29.257137,93525586.0,6.6,1065.0,Fantasy,63.0
+23,Susan Sarandon,2010-09-02,Wall Street: Money Never Sleeps,23.25645,134748021.0,5.8,493.0,Drama,64.0
+24,Susan Sarandon,2011-09-13,"Jeff, Who Lives at Home",10.409155,4417580.0,6.1,217.0,Drama,65.0
+25,Susan Sarandon,2012-06-14,That's My Boy,21.723897,58058367.0,5.5,453.0,Comedy,66.0
+26,Susan Sarandon,2012-08-16,Robot & Frank,23.419061,3325038.0,6.8,450.0,Science Fiction,66.0
+27,Susan Sarandon,2012-09-14,Arbitrage,16.40512,35485056.0,6.1,294.0,Drama,66.0
+28,Susan Sarandon,2013-02-21,Snitch,30.556134999999998,42930462.0,5.8,1138.0,Thriller,67.0
+29,Susan Sarandon,2013-04-25,The Big Wedding,18.843320000000002,21819348.0,5.7,414.0,Comedy,67.0
+30,Susan Sarandon,2014-06-15,The Past Is a Grotesque Animal,0.394575,0.0,5.5,2.0,Documentary,68.0
+31,Susan Sarandon,2014-07-02,Tammy,21.657563,100525432.0,5.0,500.0,Comedy,68.0
+32,Susan Sarandon,2014-08-05,The Calling,5.759493,0.0,5.6,88.0,Thriller,68.0
+0,Julia Roberts,1988-10-13,Mystic Pizza,6.379933,0.0,5.9,123.0,Comedy,21.0
+1,Julia Roberts,1990-03-23,Pretty Woman,45.473484,463000000.0,7.0,1746.0,Romance,23.0
+2,Julia Roberts,1990-08-09,Flatliners,24.114459,61489265.0,6.3,404.0,Drama,23.0
+3,Julia Roberts,1991-12-11,Hook,33.648404,300854823.0,6.6,1532.0,Adventure,24.0
+4,Julia Roberts,1993-12-16,The Pelican Brief,17.923254,195268056.0,6.3,371.0,Drama,26.0
+5,Julia Roberts,1996-02-23,Mary Reilly,6.0672120000000005,12379402.0,5.7,74.0,Drama,29.0
+6,Julia Roberts,1996-10-25,Michael Collins,8.314624,16900000.0,6.7,97.0,Drama,29.0
+7,Julia Roberts,1996-12-06,Everyone Says I Love You,12.379781,0.0,6.5,147.0,Music,29.0
+8,Julia Roberts,1997-06-19,My Best Friend's Wedding,15.401855,299288605.0,6.3,584.0,Comedy,30.0
+9,Julia Roberts,1997-08-07,Conspiracy Theory,22.179658,136982834.0,6.5,431.0,Action,30.0
+10,Julia Roberts,1998-12-25,Stepmom,16.368282999999998,0.0,6.9,277.0,Drama,31.0
+11,Julia Roberts,1999-05-13,Notting Hill,28.969151,363889678.0,7.0,1262.0,Romance,32.0
+12,Julia Roberts,1999-07-30,Runaway Bride,20.230535,309457509.0,5.7,455.0,Comedy,32.0
+13,Julia Roberts,2000-03-17,Erin Brockovich,30.347332,256271286.0,7.1,716.0,Drama,33.0
+14,Julia Roberts,2001-03-01,The Mexican,21.021809,147845033.0,5.8,441.0,Action,34.0
+15,Julia Roberts,2001-07-17,America's Sweethearts,10.698929,0.0,5.5,252.0,Comedy,34.0
+16,Julia Roberts,2001-12-07,Ocean's Eleven,60.929352,450717150.0,7.2,3783.0,Thriller,34.0
+17,Julia Roberts,2002-08-02,Full Frontal,1.9568599999999998,2506446.0,4.8,26.0,Comedy,35.0
+18,Julia Roberts,2002-12-30,Confessions of a Dangerous Mind,18.165957000000002,33013805.0,6.6,275.0,Comedy,35.0
+19,Julia Roberts,2003-12-19,Mona Lisa Smile,19.718544,0.0,6.5,393.0,Drama,36.0
+20,Julia Roberts,2004-12-01,Closer,22.636908,115505027.0,6.7,811.0,Drama,37.0
+21,Julia Roberts,2004-12-09,Ocean's Twelve,76.840712,362744280.0,6.4,2124.0,Thriller,37.0
+22,Julia Roberts,2006-07-27,The Ant Bully,20.239061,55181129.0,5.5,366.0,Fantasy,39.0
+23,Julia Roberts,2006-12-15,Charlotte's Web,14.132582999999999,144000000.0,5.8,288.0,Comedy,39.0
+24,Julia Roberts,2007-12-19,Charlie Wilson's War,18.70031,119000410.0,6.5,338.0,Comedy,40.0
+25,Julia Roberts,2009-03-19,Duplicity,13.630049,60000000.0,5.7,201.0,Romance,42.0
+26,Julia Roberts,2010-08-12,Eat Pray Love,28.800112,204594016.0,5.8,636.0,Drama,43.0
+27,Julia Roberts,2011-06-30,Larry Crowne,20.355458,36160375.0,5.7,359.0,Comedy,44.0
+28,Julia Roberts,2012-03-15,Mirror Mirror,48.126296999999994,183018522.0,5.5,1114.0,Adventure,45.0
+29,Julia Roberts,2013-12-26,August: Osage County,20.561682,74188937.0,6.9,483.0,Comedy,46.0
+30,Julia Roberts,2015-10-14,Secret in Their Eyes,15.012236999999999,34854990.0,6.2,336.0,Crime,48.0
+31,Julia Roberts,2016-05-12,Money Monster,38.279458,93282604.0,6.5,1068.0,Thriller,49.0
+0,Cameron Diaz,1994-07-29,The Mask,85.30318,351583407.0,6.6,2472.0,Romance,22.0
+1,Cameron Diaz,1996-08-26,She's the One,8.406025,9482579.0,5.7,70.0,Comedy,24.0
+2,Cameron Diaz,1997-06-19,My Best Friend's Wedding,15.401855,299288605.0,6.3,584.0,Comedy,25.0
+3,Cameron Diaz,1998-05-22,Fear and Loathing in Las Vegas,44.511363,10680275.0,7.2,1301.0,Adventure,26.0
+4,Cameron Diaz,1998-07-15,There's Something About Mary,57.110486,369884651.0,6.5,1590.0,Romance,26.0
+5,Cameron Diaz,1998-09-11,Very Bad Things,5.671691,9898412.0,6.2,179.0,Comedy,26.0
+6,Cameron Diaz,1999-09-30,Being John Malkovich,27.546914,22863596.0,7.3,1101.0,Fantasy,27.0
+7,Cameron Diaz,1999-12-16,Any Given Sunday,23.127561,100230832.0,6.8,422.0,Drama,27.0
+8,Cameron Diaz,2000-11-02,Charlie's Angels,40.20395,264105545.0,5.6,1232.0,Action,28.0
+9,Cameron Diaz,2001-05-16,Shrek,67.298732,484409218.0,7.3,4056.0,Adventure,29.0
+10,Cameron Diaz,2001-12-10,Vanilla Sky,27.299301,203388341.0,6.5,1078.0,Drama,29.0
+11,Cameron Diaz,2002-02-01,Slackers,9.371811,6413915.0,5.4,60.0,Comedy,30.0
+12,Cameron Diaz,2002-04-12,The Sweetest Thing,18.65632,68696770.0,5.3,280.0,Romance,30.0
+13,Cameron Diaz,2002-12-14,Gangs of New York,46.160047999999996,193772504.0,7.1,1910.0,Drama,30.0
+14,Cameron Diaz,2003-06-27,Charlie's Angels: Full Throttle,33.616115,259175788.0,5.2,914.0,Action,31.0
+15,Cameron Diaz,2004-05-19,Shrek 2,47.320801,919838758.0,6.7,2988.0,Adventure,32.0
+16,Cameron Diaz,2006-12-08,The Holiday,44.967453000000006,194168700.0,6.7,1225.0,Comedy,34.0
+17,Cameron Diaz,2007-05-17,Shrek the Third,42.986467,798958165.0,6.0,2278.0,Fantasy,35.0
+18,Cameron Diaz,2008-05-07,What Happens in Vegas,38.100488,170000000.0,5.8,923.0,Comedy,36.0
+19,Cameron Diaz,2009-06-26,My Sister's Keeper,24.09152000000001,95714875.0,7.1,598.0,Drama,37.0
+20,Cameron Diaz,2009-09-17,The Box,21.60600100000001,33333531.0,5.4,597.0,Thriller,37.0
+21,Cameron Diaz,2010-05-16,Shrek Forever After,44.041185999999996,752600867.0,6.0,1959.0,Comedy,38.0
+22,Cameron Diaz,2010-06-15,Knight and Day,44.906918,261930431.0,5.9,1547.0,Action,38.0
+23,Cameron Diaz,2011-01-12,The Green Hornet,31.70360800000001,227817248.0,5.5,1251.0,Action,39.0
+24,Cameron Diaz,2011-05-16,Bad Teacher,28.497242,216197492.0,5.4,1584.0,Comedy,39.0
+25,Cameron Diaz,2012-05-17,What to Expect When You're Expecting,27.009722999999997,79700000.0,5.8,594.0,Romance,40.0
+26,Cameron Diaz,2013-10-25,The Counselor,35.022028999999996,71009334.0,5.0,712.0,Thriller,41.0
+27,Cameron Diaz,2014-04-16,The Other Woman,34.519636,196781193.0,6.2,1437.0,Comedy,42.0
+28,Cameron Diaz,2014-07-17,Sex Tape,72.641296,126069509.0,5.3,1695.0,Comedy,42.0
+29,Cameron Diaz,2014-12-19,Annie,33.439187,133821816.0,6.0,466.0,Comedy,42.0
+0,Nicole Kidman,1990-06-27,Days of Thunder,16.278022,157920733.0,5.9,353.0,Adventure,23.0
+1,Nicole Kidman,1995-05-20,To Die For,12.309714999999999,21284514.0,6.7,175.0,Fantasy,28.0
+2,Nicole Kidman,1995-05-31,Batman Forever,48.205606,336529144.0,5.2,1498.0,Action,28.0
+3,Nicole Kidman,1997-09-26,The Peacemaker,15.931084,0.0,5.8,255.0,Action,30.0
+4,Nicole Kidman,1998-10-16,Practical Magic,15.142701,46683377.0,6.3,338.0,Drama,31.0
+5,Nicole Kidman,1999-07-14,Eyes Wide Shut,27.870312,162091208.0,7.1,1234.0,Mystery,32.0
+6,Nicole Kidman,2001-03-09,Moulin Rouge!,57.374341,179213434.0,7.4,1300.0,Drama,34.0
+7,Nicole Kidman,2001-08-02,The Others,25.881355,0.0,7.4,1660.0,Horror,34.0
+8,Nicole Kidman,2001-09-06,Birthday Girl,5.831302,0.0,6.1,103.0,Comedy,34.0
+9,Nicole Kidman,2002-12-27,The Hours,20.953265,41597830.0,7.0,451.0,Drama,35.0
+10,Nicole Kidman,2003-12-24,Cold Mountain,24.598479,173013509.0,6.7,533.0,Drama,36.0
+11,Nicole Kidman,2004-06-10,The Stepford Wives,19.224754,102000000.0,5.4,334.0,Action,37.0
+12,Nicole Kidman,2004-09-08,Birth,7.698075,0.0,5.9,179.0,Drama,37.0
+13,Nicole Kidman,2005-04-08,The Interpreter,18.69984,162944923.0,6.2,392.0,Crime,38.0
+14,Nicole Kidman,2006-08-30,Fur: An Imaginary Portrait of Diane Arbus,4.3582550000000015,2281089.0,5.8,73.0,Drama,39.0
+15,Nicole Kidman,2006-11-16,Happy Feet,37.272385,384335608.0,5.9,1410.0,Animation,39.0
+16,Nicole Kidman,2007-08-17,The Invasion,15.673154,15071514.0,5.7,359.0,Science Fiction,40.0
+17,Nicole Kidman,2007-12-04,The Golden Compass,42.990906,372234864.0,5.8,1303.0,Adventure,40.0
+18,Nicole Kidman,2008-11-18,Australia,28.840996999999998,49554002.0,6.3,694.0,Drama,41.0
+19,Nicole Kidman,2009-12-03,Nine,9.357733999999999,53825515.0,5.1,165.0,Drama,42.0
+20,Nicole Kidman,2010-12-16,Rabbit Hole,10.095184,5129058.0,6.9,165.0,Drama,43.0
+21,Nicole Kidman,2011-02-10,Just Go with It,37.02665,214918407.0,6.3,1543.0,Romance,44.0
+22,Nicole Kidman,2013-02-28,Stoker,27.322212,12077441.0,6.5,882.0,Drama,46.0
+23,Nicole Kidman,2013-12-26,The Railway Man,13.916583,22309223.0,6.7,273.0,Drama,46.0
+24,Nicole Kidman,2014-05-14,Grace of Monaco,10.958697,0.0,5.8,195.0,Romance,47.0
+25,Nicole Kidman,2014-09-03,Before I Go to Sleep,48.784734,15447154.0,6.2,659.0,Mystery,47.0
+26,Nicole Kidman,2014-11-27,Paddington,39.882276,259207227.0,7.0,883.0,Family,47.0
+27,Nicole Kidman,2015-07-01,Strangerland,5.1456550000000005,17472.0,5.1,83.0,Drama,48.0
+28,Nicole Kidman,2015-10-14,Secret in Their Eyes,15.012236999999999,34854990.0,6.2,336.0,Crime,48.0
+0,Julianne Moore,1993-08-06,The Fugitive,54.884297,368875760.0,7.2,1220.0,Adventure,33.0
+1,Julianne Moore,1995-10-06,Assassins,23.073933,30303072.0,6.0,387.0,Action,35.0
+2,Julianne Moore,1997-05-23,The Lost World: Jurassic Park,2.502487,229074524.0,6.2,2487.0,Adventure,37.0
+3,Julianne Moore,1997-09-11,Boogie Nights,19.85579,43101594.0,7.5,796.0,Drama,37.0
+4,Julianne Moore,1998-03-06,The Big Lebowski,49.230089,46189568.0,7.8,2926.0,Comedy,38.0
+5,Julianne Moore,1999-04-15,An Ideal Husband,4.519523,18535191.0,6.3,46.0,Drama,39.0
+6,Julianne Moore,1999-12-03,The End of the Affair,6.9212630000000015,10827816.0,6.6,55.0,Drama,39.0
+7,Julianne Moore,1999-12-08,Magnolia,30.993736,48451803.0,7.5,825.0,Drama,39.0
+8,Julianne Moore,2001-12-18,The Shipping News,11.1399,0.0,6.4,108.0,Drama,41.0
+9,Julianne Moore,2002-09-01,Far from Heaven,9.982885000000001,29027914.0,6.9,144.0,Drama,42.0
+10,Julianne Moore,2002-12-27,The Hours,20.953265,41597830.0,7.0,451.0,Drama,42.0
+11,Julianne Moore,2004-04-04,Laws of Attraction,6.201404,30016165.0,5.6,104.0,Action,44.0
+12,Julianne Moore,2005-09-01,Trust the Man,5.2545,0.0,5.5,29.0,Comedy,45.0
+13,Julianne Moore,2006-09-22,Children of Men,35.387874,69959751.0,7.4,2071.0,Drama,46.0
+14,Julianne Moore,2007-05-18,Savage Grace,3.5318769999999997,0.0,5.7,60.0,Drama,47.0
+15,Julianne Moore,2007-10-01,I'm Not There.,13.032308,4001121.0,6.6,195.0,Drama,47.0
+16,Julianne Moore,2008-05-14,Blindness,17.603823000000006,19844979.0,6.4,387.0,Drama,48.0
+17,Julianne Moore,2009-03-25,Chloe,26.373864,8459458.0,5.9,498.0,Drama,49.0
+18,Julianne Moore,2009-10-19,A Single Man,21.626288,0.0,7.3,463.0,Drama,49.0
+19,Julianne Moore,2010-07-09,The Kids Are All Right,15.338211,34705850.0,6.5,506.0,Comedy,50.0
+20,Julianne Moore,2011-07-29,"Crazy, Stupid, Love.",37.990705,142851197.0,7.0,2443.0,Comedy,51.0
+21,Julianne Moore,2013-07-26,Don Jon,33.296684,0.0,5.9,1671.0,Romance,53.0
+22,Julianne Moore,2013-10-16,Carrie,63.848541000000004,82394288.0,5.8,1463.0,Drama,53.0
+23,Julianne Moore,2014-01-26,Non-Stop,83.295796,222809600.0,6.8,2268.0,Action,54.0
+24,Julianne Moore,2014-11-18,The Hunger Games: Mockingjay - Part 1,206.227151,752100229.0,6.6,5584.0,Science Fiction,54.0
+25,Julianne Moore,2014-12-05,Still Alice,35.307577,43884652.0,7.5,1104.0,Drama,54.0
+26,Julianne Moore,2014-12-12,Seventh Son,63.628459,114178613.0,5.2,957.0,Adventure,54.0
+27,Julianne Moore,2015-10-02,Freeheld,8.184588,573335.0,7.1,164.0,Romance,55.0
+28,Julianne Moore,2015-11-18,The Hunger Games: Mockingjay - Part 2,127.28442700000001,653428261.0,6.6,3984.0,Action,55.0
+0,Meryl Streep,1977-10-02,Julia,6.077735,0.0,6.3,30.0,Drama,28.0
+1,Meryl Streep,1978-12-08,The Deer Hunter,19.786392000000006,50000000.0,7.8,921.0,Drama,29.0
+2,Meryl Streep,1985-12-20,Out of Africa,13.864975,128499205.0,7.0,279.0,Drama,36.0
+3,Meryl Streep,1992-07-30,Death Becomes Her,29.498303999999997,149022650.0,6.3,636.0,Fantasy,43.0
+4,Meryl Streep,1994-09-30,The River Wild,12.362876,0.0,6.1,210.0,Action,45.0
+5,Meryl Streep,1995-05-28,The Bridges of Madison County,17.606087,182016617.0,7.3,385.0,Drama,46.0
+6,Meryl Streep,1996-12-18,Marvin's Room,6.130231,0.0,6.6,124.0,Drama,47.0
+7,Meryl Streep,1998-09-18,One True Thing,2.644427,0.0,6.2,27.0,Drama,49.0
+8,Meryl Streep,2001-06-29,A.I. Artificial Intelligence,34.035114,235926552.0,6.8,1974.0,Drama,52.0
+9,Meryl Streep,2002-12-06,Adaptation.,26.441669,32801173.0,7.3,638.0,Comedy,53.0
+10,Meryl Streep,2002-12-27,The Hours,20.953265,41597830.0,7.0,451.0,Drama,53.0
+11,Meryl Streep,2004-07-30,The Manchurian Candidate,21.394281,96105964.0,6.2,393.0,Drama,55.0
+12,Meryl Streep,2006-06-09,A Prairie Home Companion,5.025446,0.0,6.4,81.0,Drama,57.0
+13,Meryl Streep,2006-06-30,The Devil Wears Prada,83.89325699999998,326551094.0,7.0,3088.0,Comedy,57.0
+14,Meryl Streep,2006-07-27,The Ant Bully,20.239061,55181129.0,5.5,366.0,Fantasy,57.0
+15,Meryl Streep,2007-09-07,Rendition,12.741073,24748670.0,6.2,205.0,Drama,58.0
+16,Meryl Streep,2007-10-22,Lions for Lambs,9.789027,63215872.0,6.0,216.0,Action,58.0
+17,Meryl Streep,2008-07-03,Mamma Mia!,30.780599,609841637.0,6.4,1386.0,Comedy,59.0
+18,Meryl Streep,2008-11-27,Doubt,20.975165,50907234.0,7.0,435.0,Drama,59.0
+19,Meryl Streep,2009-08-06,Julie & Julia,22.853006,129540499.0,6.6,560.0,Romance,60.0
+20,Meryl Streep,2009-10-23,Fantastic Mr. Fox,41.258956,46471023.0,7.5,1176.0,Adventure,60.0
+21,Meryl Streep,2009-12-23,It's Complicated,16.479851,219103655.0,6.2,360.0,Comedy,60.0
+22,Meryl Streep,2011-12-30,The Iron Lady,23.3784,114956699.0,6.2,527.0,History,62.0
+23,Meryl Streep,2012-08-07,Hope Springs,12.967137,114281051.0,5.8,284.0,Drama,63.0
+24,Meryl Streep,2013-12-26,August: Osage County,20.561682,74188937.0,6.9,483.0,Comedy,64.0
+25,Meryl Streep,2014-05-18,The Homesman,20.591479999999997,3442853.0,6.4,258.0,Western,65.0
+26,Meryl Streep,2014-08-11,The Giver,53.811461,66980456.0,6.4,1798.0,Drama,65.0
+27,Meryl Streep,2014-12-25,Into the Woods,65.90160999999999,212902372.0,5.6,1652.0,Fantasy,65.0
+28,Meryl Streep,2016-05-06,Florence Foster Jenkins,19.237254,48902953.0,6.6,392.0,Comedy,67.0
+0,Catherine Keener,1991-08-18,Johnny Suede,1.354816,0.0,4.7,13.0,Comedy,32.0
+1,Catherine Keener,1996-07-17,Walking and Talking,0.36731199999999997,0.0,6.6,7.0,Comedy,37.0
+2,Catherine Keener,1999-02-26,8MM,25.580272,96618699.0,6.1,474.0,Thriller,40.0
+3,Catherine Keener,1999-09-30,Being John Malkovich,27.546914,22863596.0,7.3,1101.0,Fantasy,40.0
+4,Catherine Keener,2001-08-31,Lovely & Amazing,1.45917,4186931.0,6.3,23.0,Comedy,42.0
+5,Catherine Keener,2002-03-28,Death to Smoochy,11.329727,0.0,5.9,132.0,Comedy,43.0
+6,Catherine Keener,2002-08-02,Full Frontal,1.9568599999999998,2506446.0,4.8,26.0,Comedy,43.0
+7,Catherine Keener,2005-03-25,The Ballad of Jack and Rose,3.618646,712294.0,6.5,43.0,Drama,46.0
+8,Catherine Keener,2005-04-08,The Interpreter,18.69984,162944923.0,6.2,392.0,Crime,46.0
+9,Catherine Keener,2005-08-11,The 40 Year Old Virgin,38.473732,109449237.0,6.2,1983.0,Comedy,46.0
+10,Catherine Keener,2005-09-30,Capote,17.434862,49084830.0,6.8,384.0,Crime,46.0
+11,Catherine Keener,2006-09-07,Friends with Money,11.885221000000001,13368437.0,5.1,128.0,Comedy,47.0
+12,Catherine Keener,2007-09-11,Into the Wild,43.644978,56255142.0,7.8,3045.0,Adventure,48.0
+13,Catherine Keener,2008-01-21,Hamlet 2,5.293362999999999,0.0,6.1,56.0,Comedy,49.0
+14,Catherine Keener,2008-10-17,What Just Happened,8.31653,6673422.0,5.2,127.0,Comedy,49.0
+15,Catherine Keener,2008-10-24,"Synecdoche, New York",12.761175999999999,0.0,7.4,278.0,Drama,49.0
+16,Catherine Keener,2009-04-24,The Soloist,17.299332999999994,31720158.0,6.6,234.0,Drama,50.0
+17,Catherine Keener,2009-10-16,Where the Wild Things Are,31.58621500000001,100086793.0,6.4,572.0,Family,50.0
+18,Catherine Keener,2010-01-22,Please Give,5.325156,0.0,6.0,57.0,Comedy,51.0
+19,Catherine Keener,2010-02-01,Percy Jackson & the Olympians: The Lightning Thief,61.121717000000004,226497209.0,6.0,2010.0,Adventure,51.0
+20,Catherine Keener,2010-06-18,Cyrus,15.212569,0.0,6.1,133.0,Comedy,51.0
+21,Catherine Keener,2010-09-10,Trust,21.230737,120000.0,6.6,307.0,Crime,51.0
+22,Catherine Keener,2013-03-20,The Croods,64.18332099999999,585178928.0,6.8,2399.0,Adventure,54.0
+23,Catherine Keener,2013-09-07,Begin Again,35.735689,63464861.0,7.3,1254.0,Comedy,54.0
+24,Catherine Keener,2013-09-18,Enough Said,14.969092999999999,25288872.0,6.6,348.0,Comedy,54.0
+25,Catherine Keener,2013-10-10,Captain Phillips,52.786917,95000000.0,7.6,2454.0,Action,54.0
+26,Catherine Keener,2013-10-22,Bad Grandpa,27.165221999999996,151831537.0,6.0,680.0,Comedy,54.0
+27,Catherine Keener,2015-02-10,Accidental Love,5.644844,0.0,3.9,95.0,Romance,56.0
+0,Scarlett Johansson,1998-05-14,The Horse Whisperer,12.867352,186883563.0,6.7,292.0,Drama,14.0
+1,Scarlett Johansson,2001-07-20,Ghost World,14.072941,0.0,7.1,426.0,Comedy,17.0
+2,Scarlett Johansson,2002-07-17,Eight Legged Freaks,17.834976,0.0,5.4,295.0,Action,18.0
+3,Scarlett Johansson,2003-08-31,Girl with a Pearl Earring,19.944479,31466789.0,6.4,377.0,Drama,19.0
+4,Scarlett Johansson,2003-08-31,Lost in Translation,45.66662,119723856.0,7.3,1895.0,Drama,19.0
+5,Scarlett Johansson,2004-11-14,The SpongeBob SquarePants Movie,27.870755,140161792.0,6.7,574.0,Animation,20.0
+6,Scarlett Johansson,2004-12-29,In Good Company,15.376391,0.0,5.9,194.0,Comedy,20.0
+7,Scarlett Johansson,2005-07-20,The Island,37.68056,162949164.0,6.5,1770.0,Action,21.0
+8,Scarlett Johansson,2005-10-26,Match Point,30.669913,85306374.0,7.3,1105.0,Drama,21.0
+9,Scarlett Johansson,2006-07-27,Scoop,17.229537,31584901.0,6.4,420.0,Comedy,22.0
+10,Scarlett Johansson,2006-09-15,The Black Dahlia,15.213484,49111202.0,5.7,287.0,Drama,22.0
+11,Scarlett Johansson,2006-10-19,The Prestige,74.440708,109676311.0,8.0,4391.0,Drama,22.0
+12,Scarlett Johansson,2008-02-28,The Other Boleyn Girl,22.939557,0.0,6.4,477.0,Drama,24.0
+13,Scarlett Johansson,2008-08-15,Vicky Cristina Barcelona,32.758254,96408652.0,6.7,1020.0,Drama,24.0
+14,Scarlett Johansson,2008-12-25,The Spirit,14.84856,39031337.0,4.7,320.0,Action,24.0
+15,Scarlett Johansson,2009-02-06,He's Just Not That Into You,26.253357,177259441.0,6.2,959.0,Comedy,25.0
+16,Scarlett Johansson,2010-04-28,Iron Man 2,77.30019399999998,623933331.0,6.6,6849.0,Adventure,26.0
+17,Scarlett Johansson,2011-12-22,We Bought a Zoo,38.629763,120081841.0,6.5,909.0,Drama,27.0
+18,Scarlett Johansson,2012-04-25,The Avengers,144.448633,1519557910.0,7.4,11776.0,Science Fiction,28.0
+19,Scarlett Johansson,2013-07-26,Don Jon,33.296684,0.0,5.9,1671.0,Romance,29.0
+20,Scarlett Johansson,2013-12-18,Her,53.682367000000006,47351251.0,7.9,4097.0,Romance,29.0
+21,Scarlett Johansson,2014-03-14,Under the Skin,29.782161,5380251.0,6.0,1102.0,Thriller,30.0
+22,Scarlett Johansson,2014-03-20,Captain America: The Winter Soldier,72.22526500000002,714766572.0,7.6,5764.0,Action,30.0
+23,Scarlett Johansson,2014-07-14,Lucy,115.241998,126546825.0,6.3,5878.0,Action,30.0
+24,Scarlett Johansson,2015-04-22,Avengers: Age of Ultron,134.27922900000002,1405403694.0,7.3,6767.0,Action,31.0
+25,Scarlett Johansson,2016-02-05,"Hail, Caesar!",39.006187,63647656.0,5.7,1309.0,Comedy,32.0
+26,Scarlett Johansson,2016-04-07,The Jungle Book,94.19931600000001,966550600.0,6.7,2892.0,Family,32.0
+27,Scarlett Johansson,2016-04-27,Captain America: Civil War,198.37239499999998,1153304495.0,7.1,7241.0,Adventure,32.0
+0,Sigourney Weaver,1979-05-25,Alien,94.184658,104931801.0,7.9,4470.0,Horror,30.0
+1,Sigourney Weaver,1986-07-18,Aliens,67.66094,183316455.0,7.7,3220.0,Horror,37.0
+2,Sigourney Weaver,1992-05-22,Alien³,45.856409,159773545.0,6.2,1633.0,Science Fiction,43.0
+3,Sigourney Weaver,1995-10-27,Copycat,14.211699,0.0,6.4,194.0,Drama,46.0
+4,Sigourney Weaver,1997-07-18,Snow White: A Tale of Terror,4.810621,0.0,6.0,62.0,Fantasy,48.0
+5,Sigourney Weaver,1997-09-27,The Ice Storm,14.916264000000002,8038061.0,6.9,176.0,Drama,48.0
+6,Sigourney Weaver,1997-11-12,Alien: Resurrection,37.44963,162000000.0,5.9,1365.0,Science Fiction,48.0
+7,Sigourney Weaver,1999-12-23,Galaxy Quest,30.816340999999998,90683916.0,6.9,710.0,Comedy,50.0
+8,Sigourney Weaver,2001-03-23,Heartbreakers,13.932203,0.0,5.7,254.0,Crime,52.0
+9,Sigourney Weaver,2002-11-01,Tadpole,8.570328,2891288.0,5.5,19.0,Comedy,53.0
+10,Sigourney Weaver,2003-04-18,Holes,22.001407999999998,0.0,6.7,383.0,Adventure,54.0
+11,Sigourney Weaver,2004-07-30,The Village,27.491891,256697520.0,6.2,1071.0,Drama,55.0
+12,Sigourney Weaver,2004-09-14,Imaginary Heroes,2.85283,0.0,6.3,29.0,Comedy,55.0
+13,Sigourney Weaver,2006-09-14,Happily N'Ever After,10.410933,38085778.0,4.6,104.0,Animation,57.0
+14,Sigourney Weaver,2006-11-16,Infamous,3.6808959999999997,1151330.0,6.4,60.0,Drama,57.0
+15,Sigourney Weaver,2008-01-20,Be Kind Rewind,17.662682999999994,0.0,6.2,424.0,Drama,59.0
+16,Sigourney Weaver,2008-02-01,Vantage Point,24.862767,151161491.0,6.2,716.0,Drama,59.0
+17,Sigourney Weaver,2008-04-23,Baby Mama,11.409124,63833449.0,5.8,205.0,Comedy,59.0
+18,Sigourney Weaver,2008-12-19,The Tale of Despereaux,16.493576,50877145.0,5.8,258.0,Adventure,59.0
+19,Sigourney Weaver,2009-12-10,Avatar,150.437577,2787965087.0,7.2,11800.0,Action,60.0
+20,Sigourney Weaver,2010-09-24,You Again,19.962713,32005248.0,6.0,368.0,Comedy,61.0
+21,Sigourney Weaver,2011-02-11,Cedar Rapids,10.254807000000001,6861102.0,5.9,135.0,Comedy,62.0
+22,Sigourney Weaver,2011-09-22,Abduction,19.893646,82087155.0,5.6,961.0,Thriller,62.0
+23,Sigourney Weaver,2012-03-02,Red Lights,22.748174,13551174.0,6.0,376.0,Thriller,63.0
+24,Sigourney Weaver,2012-04-04,The Cold Light of Day,15.131867000000002,16863583.0,4.8,271.0,Action,63.0
+25,Sigourney Weaver,2012-08-25,Vamps,7.2518970000000005,0.0,4.8,91.0,Comedy,63.0
+26,Sigourney Weaver,2014-12-03,Exodus: Gods and Kings,101.599427,268031828.0,5.6,1921.0,Adventure,65.0
+27,Sigourney Weaver,2015-03-04,Chappie,116.700319,104399548.0,6.6,3062.0,Crime,66.0
+0,Sandra Bullock,1994-06-09,Speed,49.526736,350448145.0,6.8,1783.0,Action,30.0
+1,Sandra Bullock,1995-07-28,The Net,23.218144,110627965.0,5.6,354.0,Crime,31.0
+2,Sandra Bullock,1996-07-24,A Time to Kill,25.219804999999997,152266007.0,7.0,509.0,Crime,32.0
+3,Sandra Bullock,1997-06-13,Speed 2: Cruise Control,23.336875,164508066.0,4.1,434.0,Action,33.0
+4,Sandra Bullock,1998-05-29,Hope Floats,7.922716,0.0,5.8,81.0,Drama,34.0
+5,Sandra Bullock,1998-10-16,Practical Magic,15.142701,46683377.0,6.3,338.0,Drama,34.0
+6,Sandra Bullock,1998-12-15,The Prince of Egypt,29.464852,218613188.0,6.8,817.0,Adventure,34.0
+7,Sandra Bullock,2000-02-04,Gun Shy,3.988432,1631839.0,5.4,24.0,Action,36.0
+8,Sandra Bullock,2000-04-06,28 Days,5.418921,0.0,6.0,208.0,Comedy,36.0
+9,Sandra Bullock,2000-05-14,Lisa Picard Is Famous,0.6900890000000001,0.0,4.0,1.0,None,36.0
+10,Sandra Bullock,2000-12-14,Miss Congeniality,32.624355,212000000.0,6.1,961.0,Comedy,36.0
+11,Sandra Bullock,2002-04-19,Murder by Numbers,16.167092999999998,56714147.0,6.0,268.0,Crime,38.0
+12,Sandra Bullock,2002-06-07,Divine Secrets of the Ya-Ya Sisterhood,5.576937,0.0,5.6,65.0,Comedy,38.0
+13,Sandra Bullock,2002-12-19,Two Weeks Notice,24.153567000000002,93354918.0,5.9,487.0,Romance,38.0
+14,Sandra Bullock,2004-01-13,Crash,28.223163,98410061.0,7.2,1149.0,Drama,40.0
+15,Sandra Bullock,2005-03-11,Miss Congeniality 2: Armed and Fabulous,19.998581,0.0,5.3,425.0,Action,41.0
+16,Sandra Bullock,2006-06-16,The Lake House,29.887359999999997,114830111.0,6.5,670.0,Romance,42.0
+17,Sandra Bullock,2006-11-16,Infamous,3.6808959999999997,1151330.0,6.4,60.0,Drama,42.0
+18,Sandra Bullock,2007-02-08,Premonition,22.049787,84146832.0,5.8,381.0,Thriller,43.0
+19,Sandra Bullock,2009-06-01,The Proposal,36.238968,317375031.0,6.7,1804.0,Comedy,45.0
+20,Sandra Bullock,2009-09-04,All About Steve,13.237835,40105542.0,4.7,295.0,Comedy,45.0
+21,Sandra Bullock,2009-11-20,The Blind Side,25.767395,309208309.0,7.2,1597.0,Drama,45.0
+22,Sandra Bullock,2011-12-24,Extremely Loud & Incredibly Close,31.066874,55247881.0,6.9,708.0,Drama,47.0
+23,Sandra Bullock,2013-06-27,The Heat,37.654688,158674180.0,6.5,1575.0,Action,49.0
+24,Sandra Bullock,2013-09-27,Gravity,110.153618,716392705.0,7.3,5751.0,Science Fiction,49.0
+25,Sandra Bullock,2015-06-17,Minions,875.581305,1156730962.0,6.4,4571.0,Family,51.0
+26,Sandra Bullock,2015-09-11,Our Brand Is Crisis,12.921594,7002261.0,5.8,195.0,Comedy,51.0
+0,Drew Barrymore,1982-04-03,E.T. the Extra-Terrestrial,56.105798,792910554.0,7.3,3269.0,Science Fiction,7.0
+1,Drew Barrymore,1984-05-11,Firestarter,11.379652,17080167.0,5.9,173.0,Fantasy,9.0
+2,Drew Barrymore,1995-05-31,Batman Forever,48.205606,336529144.0,5.2,1498.0,Action,20.0
+3,Drew Barrymore,1996-12-06,Everyone Says I Love You,12.379781,0.0,6.5,147.0,Music,21.0
+4,Drew Barrymore,1996-12-20,Scream,45.996109999999994,173046663.0,7.0,1476.0,Crime,21.0
+5,Drew Barrymore,1998-07-31,Ever After: A Cinderella Story,21.988861,65705772.0,6.8,399.0,Drama,23.0
+6,Drew Barrymore,1998-11-25,Home Fries,3.033471,10443316.0,4.8,32.0,Drama,23.0
+7,Drew Barrymore,2000-06-16,Titan A.E.,14.443810000000001,36754634.0,6.3,313.0,Animation,25.0
+8,Drew Barrymore,2000-11-02,Charlie's Angels,40.20395,264105545.0,5.6,1232.0,Action,25.0
+9,Drew Barrymore,2001-01-18,Donnie Darko,61.210016,1270522.0,7.7,3452.0,Fantasy,26.0
+10,Drew Barrymore,2001-10-19,Riding in Cars with Boys,7.226114999999999,35743308.0,6.5,103.0,Comedy,26.0
+11,Drew Barrymore,2002-12-30,Confessions of a Dangerous Mind,18.165957000000002,33013805.0,6.6,275.0,Comedy,27.0
+12,Drew Barrymore,2003-06-27,Charlie's Angels: Full Throttle,33.616115,259175788.0,5.2,914.0,Action,28.0
+13,Drew Barrymore,2003-09-26,Duplex,15.590001,19322135.0,5.9,482.0,Action,28.0
+14,Drew Barrymore,2004-02-13,50 First Dates,61.437585999999996,196482882.0,6.6,2105.0,Comedy,29.0
+15,Drew Barrymore,2005-04-06,Fever Pitch,9.965073,50451307.0,5.9,182.0,Comedy,30.0
+16,Drew Barrymore,2005-08-05,My Date with Drew,1.9298830000000002,0.0,6.3,16.0,Documentary,30.0
+17,Drew Barrymore,2006-02-10,Curious George,9.894346,69834815.0,6.2,106.0,Adventure,31.0
+18,Drew Barrymore,2007-02-09,Music and Lyrics,17.659032,145896422.0,6.2,554.0,Comedy,32.0
+19,Drew Barrymore,2007-05-01,Lucky You,6.162872,5761917.0,5.4,81.0,Drama,32.0
+20,Drew Barrymore,2008-10-03,Beverly Hills Chihuahua,12.25264,149281606.0,4.9,209.0,Adventure,33.0
+21,Drew Barrymore,2009-02-06,He's Just Not That Into You,26.253357,177259441.0,6.2,959.0,Comedy,34.0
+22,Drew Barrymore,2009-09-13,Whip It,20.05902,16633035.0,6.7,357.0,Drama,34.0
+23,Drew Barrymore,2009-12-04,Everybody's Fine,15.440465,0.0,6.5,284.0,Drama,34.0
+24,Drew Barrymore,2010-09-01,Going the Distance,13.611544,42045846.0,6.0,262.0,Comedy,35.0
+25,Drew Barrymore,2012-02-02,Big Miracle,8.303696,24719215.0,6.6,152.0,Adventure,37.0
+26,Drew Barrymore,2014-05-21,Blended,44.120328,123494610.0,6.6,1006.0,Comedy,39.0
+0,Charlize Theron,1996-10-04,That Thing You Do!,14.885388,34585416.0,6.8,225.0,Comedy,21.0
+1,Charlize Theron,1997-10-17,The Devil's Advocate,33.8473,152944660.0,7.2,1374.0,Drama,22.0
+2,Charlize Theron,1998-09-07,Celebrity,7.594593,0.0,6.0,111.0,Drama,23.0
+3,Charlize Theron,1998-12-25,Mighty Joe Young,6.643778,0.0,5.9,208.0,Action,23.0
+4,Charlize Theron,1999-08-26,The Astronaut's Wife,20.697556,19598588.0,5.4,254.0,Drama,24.0
+5,Charlize Theron,2000-02-25,Reindeer Games,11.470135,32168970.0,5.4,173.0,Thriller,25.0
+6,Charlize Theron,2000-04-27,The Yards,10.150993,0.0,6.0,97.0,Drama,25.0
+7,Charlize Theron,2000-09-13,Men of Honor,24.147269,48814909.0,7.0,544.0,Drama,25.0
+8,Charlize Theron,2000-11-02,The Legend of Bagger Vance,16.848899,39459427.0,6.3,251.0,Fantasy,25.0
+9,Charlize Theron,2001-02-16,Sweet November,19.372805,65754228.0,6.4,278.0,Drama,26.0
+10,Charlize Theron,2001-03-01,15 Minutes,15.205371,56359980.0,5.7,191.0,Action,26.0
+11,Charlize Theron,2001-08-05,The Curse of the Jade Scorpion,9.317264999999999,0.0,6.5,165.0,Comedy,26.0
+12,Charlize Theron,2003-05-30,The Italian Job,62.766854,176070171.0,6.6,1919.0,Action,28.0
+13,Charlize Theron,2003-11-16,Monster,19.683187,60378584.0,7.0,485.0,Crime,28.0
+14,Charlize Theron,2005-02-12,North Country,12.779200999999999,25224242.0,6.8,125.0,Drama,30.0
+15,Charlize Theron,2005-11-30,Æon Flux,29.954302000000002,52304001.0,5.4,703.0,Action,30.0
+16,Charlize Theron,2007-08-31,In the Valley of Elah,15.676123,29541790.0,6.6,261.0,History,32.0
+17,Charlize Theron,2008-07-01,Hancock,56.758410999999995,624029371.0,6.2,2961.0,Fantasy,33.0
+18,Charlize Theron,2009-10-15,Astro Boy,24.857079000000002,44091067.0,6.1,409.0,Animation,34.0
+19,Charlize Theron,2009-11-25,The Road,41.075532,27635305.0,6.8,1087.0,Adventure,34.0
+20,Charlize Theron,2011-12-16,Young Adult,16.183746,22939027.0,5.6,364.0,Comedy,36.0
+21,Charlize Theron,2012-05-30,Snow White and the Huntsman,77.178973,396600000.0,5.8,3118.0,Adventure,37.0
+22,Charlize Theron,2012-05-30,Prometheus,68.889395,403170142.0,6.3,5080.0,Science Fiction,37.0
+23,Charlize Theron,2014-05-22,A Million Ways to Die in the West,32.808675,0.0,5.8,1468.0,Comedy,39.0
+24,Charlize Theron,2015-05-13,Mad Max: Fury Road,434.27856399999996,378858340.0,7.2,9427.0,Action,40.0
+25,Charlize Theron,2016-04-06,The Huntsman: Winter's War,60.467983999999994,164602163.0,6.0,1523.0,Action,41.0
+0,Judi Dench,1985-12-13,A Room with a View,7.9615589999999985,20966644.0,6.9,156.0,Drama,51.0
+1,Judi Dench,1989-10-05,Henry V,4.641006,0.0,7.4,71.0,War,55.0
+2,Judi Dench,1995-11-16,GoldenEye,59.824565,352194034.0,6.6,1174.0,Adventure,61.0
+3,Judi Dench,1997-12-11,Tomorrow Never Dies,42.887121,333011068.0,6.0,925.0,Adventure,63.0
+4,Judi Dench,1998-12-11,Shakespeare in Love,31.792964,289317794.0,6.8,796.0,Romance,64.0
+5,Judi Dench,1999-03-25,Tea with Mussolini,2.2386459999999997,21001563.0,5.8,32.0,Comedy,65.0
+6,Judi Dench,2000-12-14,Chocolat,28.727731,152500343.0,6.8,951.0,Comedy,66.0
+7,Judi Dench,2001-12-14,Iris,2.714043,0.0,6.2,47.0,Drama,67.0
+8,Judi Dench,2001-12-18,The Shipping News,11.1399,0.0,6.4,108.0,Drama,67.0
+9,Judi Dench,2002-05-17,The Importance of Being Earnest,7.250379,0.0,6.7,127.0,Comedy,68.0
+10,Judi Dench,2002-11-17,Die Another Day,54.159392000000004,431971116.0,5.8,1092.0,Adventure,68.0
+11,Judi Dench,2004-04-02,Home on the Range,19.625972,103951461.0,5.7,389.0,Animation,70.0
+12,Judi Dench,2005-09-09,Mrs Henderson Presents,2.894154,0.0,6.4,62.0,Comedy,71.0
+13,Judi Dench,2005-09-16,Pride & Prejudice,36.58383,121147947.0,7.7,1358.0,Drama,71.0
+14,Judi Dench,2006-02-24,Doogal,1.682839,0.0,3.2,18.0,Family,72.0
+15,Judi Dench,2006-11-14,Casino Royale,88.935165,599045960.0,7.3,3855.0,Adventure,72.0
+16,Judi Dench,2006-12-25,Notes on a Scandal,12.576381,49469904.0,6.9,235.0,Drama,72.0
+17,Judi Dench,2008-10-30,Quantum of Solace,107.92881100000001,586090727.0,6.1,2965.0,Adventure,74.0
+18,Judi Dench,2009-12-03,Nine,9.357733999999999,53825515.0,5.1,165.0,Drama,75.0
+19,Judi Dench,2011-10-17,My Week with Marilyn,21.006078,35057696.0,6.6,406.0,Drama,77.0
+20,Judi Dench,2011-11-09,J. Edgar,28.069419,84606030.0,6.0,741.0,Drama,77.0
+21,Judi Dench,2011-11-28,The Best Exotic Marigold Hotel,21.258991,136836156.0,6.9,459.0,Drama,77.0
+22,Judi Dench,2012-10-25,Skyfall,93.004993,1108561013.0,6.9,7604.0,Action,78.0
+23,Judi Dench,2013-11-01,Philomena,29.019503999999998,100129872.0,7.4,579.0,Drama,79.0
+24,Judi Dench,2015-02-26,The Second Best Exotic Marigold Hotel,17.592299,85978266.0,6.3,272.0,Drama,81.0
+0,Angelina Jolie,1995-09-14,Hackers,17.842246,7563728.0,6.2,398.0,Action,20.0
+1,Angelina Jolie,1999-04-23,Pushing Tin,9.060642,0.0,5.7,116.0,Comedy,24.0
+2,Angelina Jolie,1999-11-04,The Bone Collector,33.884459,151493655.0,6.5,826.0,Drama,24.0
+3,Angelina Jolie,1999-12-21,"Girl, Interrupted",10.713521,0.0,7.6,721.0,Drama,24.0
+4,Angelina Jolie,2000-06-09,Gone in Sixty Seconds,52.995628,237202299.0,6.1,1485.0,Action,25.0
+5,Angelina Jolie,2001-06-11,Lara Croft: Tomb Raider,41.498631,274703340.0,5.7,2192.0,Adventure,26.0
+6,Angelina Jolie,2001-08-03,Original Sin,14.831401999999999,35402320.0,5.8,198.0,Drama,26.0
+7,Angelina Jolie,2002-04-26,Life or Something Like It,8.980846000000003,16872671.0,5.7,124.0,Comedy,27.0
+8,Angelina Jolie,2003-07-21,Lara Croft Tomb Raider: The Cradle of Life,56.81105600000001,156505388.0,5.5,1418.0,Action,28.0
+9,Angelina Jolie,2003-10-23,Beyond Borders,6.523472,0.0,6.7,110.0,Drama,28.0
+10,Angelina Jolie,2004-09-17,Sky Captain and the World of Tomorrow,24.664776,57958696.0,5.7,439.0,Mystery,29.0
+11,Angelina Jolie,2004-09-20,Shark Tale,47.094369,367275019.0,5.8,1557.0,Animation,29.0
+12,Angelina Jolie,2004-11-21,Alexander,39.019228999999996,167298192.0,5.6,927.0,War,29.0
+13,Angelina Jolie,2005-06-07,Mr. & Mrs. Smith,44.635452,478207520.0,6.5,2965.0,Action,30.0
+14,Angelina Jolie,2007-01-01,A Mighty Heart,9.717392,18928871.0,6.7,95.0,Drama,32.0
+15,Angelina Jolie,2007-11-05,Beowulf,35.60166500000001,195735876.0,5.5,841.0,Adventure,32.0
+16,Angelina Jolie,2008-01-30,Changeling,27.509159999999998,113020255.0,7.3,1131.0,Crime,33.0
+17,Angelina Jolie,2008-06-04,Kung Fu Panda,84.68964799999998,631744560.0,6.9,3145.0,Adventure,33.0
+18,Angelina Jolie,2008-06-19,Wanted,73.82289,258270008.0,6.4,2528.0,Action,33.0
+19,Angelina Jolie,2010-07-21,Salt,48.829437,293329073.0,6.2,2093.0,Action,35.0
+20,Angelina Jolie,2010-12-08,The Tourist,41.426678,278731369.0,6.0,1699.0,Action,35.0
+21,Angelina Jolie,2011-05-25,Kung Fu Panda 2,51.247321,665692281.0,6.7,1880.0,Animation,36.0
+22,Angelina Jolie,2014-05-28,Maleficent,110.62064699999999,758539785.0,7.0,4496.0,Fantasy,39.0
+23,Angelina Jolie,2015-11-12,By the Sea,11.267676,3727746.0,5.4,156.0,Drama,40.0
+24,Angelina Jolie,2016-01-23,Kung Fu Panda 3,56.747978,521170825.0,6.7,1603.0,Action,41.0
+0,Cate Blanchett,1997-12-31,Oscar and Lucinda,0.13938399999999998,0.0,6.2,25.0,Drama,28.0
+1,Cate Blanchett,1998-09-13,Elizabeth,14.179538,82150642.0,7.1,334.0,Drama,29.0
+2,Cate Blanchett,1999-04-15,An Ideal Husband,4.519523,18535191.0,6.3,46.0,Drama,30.0
+3,Cate Blanchett,1999-04-23,Pushing Tin,9.060642,0.0,5.7,116.0,Comedy,30.0
+4,Cate Blanchett,1999-12-25,The Talented Mr. Ripley,31.385257,128798265.0,7.0,767.0,Thriller,30.0
+5,Cate Blanchett,2001-10-12,Bandits,24.353302,67631903.0,6.2,302.0,Action,32.0
+6,Cate Blanchett,2001-12-18,The Lord of the Rings: The Fellowship of the Ring,138.049577,871368364.0,8.0,8705.0,Adventure,32.0
+7,Cate Blanchett,2001-12-18,The Shipping News,11.1399,0.0,6.4,108.0,Drama,32.0
+8,Cate Blanchett,2003-07-11,Veronica Guerin,9.583578,1569918.0,6.8,59.0,Drama,34.0
+9,Cate Blanchett,2004-12-10,The Life Aquatic with Steve Zissou,25.237969,34808403.0,7.1,775.0,Adventure,35.0
+10,Cate Blanchett,2004-12-17,The Aviator,45.616098,102000000.0,7.0,1489.0,Drama,35.0
+11,Cate Blanchett,2006-09-08,Babel,25.785925,135330182.0,6.9,1055.0,Drama,37.0
+12,Cate Blanchett,2006-12-08,The Good German,5.347936,5914908.0,5.9,86.0,War,37.0
+13,Cate Blanchett,2006-12-25,Notes on a Scandal,12.576381,49469904.0,6.9,235.0,Drama,37.0
+14,Cate Blanchett,2007-09-09,Elizabeth: The Golden Age,15.274137,74237563.0,6.6,303.0,Drama,38.0
+15,Cate Blanchett,2007-10-01,I'm Not There.,13.032308,4001121.0,6.6,195.0,Drama,38.0
+16,Cate Blanchett,2008-05-21,Indiana Jones and the Kingdom of the Crystal Skull,75.674458,786636033.0,5.7,2495.0,Adventure,39.0
+17,Cate Blanchett,2008-11-24,The Curious Case of Benjamin Button,60.269279000000004,333932083.0,7.3,3292.0,Fantasy,39.0
+18,Cate Blanchett,2010-05-12,Robin Hood,37.668301,310669540.0,6.2,1398.0,Action,41.0
+19,Cate Blanchett,2011-04-07,Hanna,31.191975,63782078.0,6.5,1263.0,Action,42.0
+20,Cate Blanchett,2012-11-26,The Hobbit: An Unexpected Journey,108.849621,1021103568.0,7.0,8297.0,Adventure,43.0
+21,Cate Blanchett,2013-07-25,Blue Jasmine,34.694216,99206215.0,7.0,1098.0,Comedy,44.0
+22,Cate Blanchett,2014-01-24,The Monuments Men,43.873266,154984035.0,5.8,1523.0,War,45.0
+23,Cate Blanchett,2014-06-12,How to Train Your Dragon 2,100.21391,609123048.0,7.6,3106.0,Fantasy,45.0
+24,Cate Blanchett,2015-03-12,Cinderella,101.18705200000001,543514353.0,6.7,2374.0,Romance,46.0
+0,Amy Adams,1999-07-23,Drop Dead Gorgeous,6.736274000000001,10571408.0,6.4,86.0,Comedy,25.0
+1,Amy Adams,2000-08-06,Psycho Beach Party,2.855963,0.0,6.0,26.0,Comedy,26.0
+2,Amy Adams,2002-01-01,The Slaughter Rule,1.390909,0.0,6.2,9.0,Drama,28.0
+3,Amy Adams,2002-08-20,Serving Sara,8.93941,16930185.0,5.0,85.0,Comedy,28.0
+4,Amy Adams,2002-12-25,Catch Me If You Can,73.94404899999998,352114312.0,7.7,3795.0,Drama,28.0
+5,Amy Adams,2005-02-04,The Wedding Date,10.194097,47175038.0,6.2,230.0,Comedy,31.0
+6,Amy Adams,2006-08-04,Talladega Nights: The Ballad of Ricky Bobby,12.599836,162966177.0,6.2,491.0,Comedy,32.0
+7,Amy Adams,2007-11-20,Enchanted,29.21998,340487652.0,6.6,1449.0,Comedy,33.0
+8,Amy Adams,2007-12-19,Charlie Wilson's War,18.70031,119000410.0,6.5,338.0,Comedy,33.0
+9,Amy Adams,2008-01-18,Sunshine Cleaning,19.336367000000006,16174377.0,6.5,255.0,Comedy,34.0
+10,Amy Adams,2008-11-27,Doubt,20.975165,50907234.0,7.0,435.0,Drama,34.0
+11,Amy Adams,2009-05-20,Night at the Museum: Battle of the Smithsonian,81.781591,413106170.0,5.9,1971.0,Adventure,35.0
+12,Amy Adams,2009-08-06,Julie & Julia,22.853006,129540499.0,6.6,560.0,Romance,35.0
+13,Amy Adams,2010-01-08,Leap Year,21.959742000000002,29922472.0,6.4,465.0,Romance,36.0
+14,Amy Adams,2010-12-17,The Fighter,31.019381,93617009.0,7.2,1486.0,Drama,36.0
+15,Amy Adams,2011-11-22,The Muppets,17.047276,165184237.0,6.5,501.0,Comedy,37.0
+16,Amy Adams,2012-05-22,On the Road,14.613152,8784318.0,5.5,301.0,Adventure,38.0
+17,Amy Adams,2012-09-07,The Master,25.682509,28258060.0,7.0,701.0,Drama,38.0
+18,Amy Adams,2012-09-21,Trouble with the Curve,18.587114,0.0,6.6,366.0,Drama,38.0
+19,Amy Adams,2013-06-12,Man of Steel,99.398009,662845518.0,6.5,6359.0,Action,39.0
+20,Amy Adams,2013-12-12,American Hustle,49.66412800000001,251171807.0,6.8,2807.0,Drama,39.0
+21,Amy Adams,2013-12-18,Her,53.682367000000006,47351251.0,7.9,4097.0,Romance,39.0
+22,Amy Adams,2014-12-24,Big Eyes,28.570173999999998,28883511.0,6.8,1196.0,Drama,40.0
+23,Amy Adams,2016-03-23,Batman v Superman: Dawn of Justice,155.790452,873260194.0,5.7,7004.0,Action,42.0
+0,Anne Hathaway,2001-04-12,The Other Side of Heaven,2.206097,4720371.0,6.7,14.0,Action,19.0
+1,Anne Hathaway,2001-08-03,The Princess Diaries,40.176265,165335153.0,6.5,1023.0,Comedy,19.0
+2,Anne Hathaway,2002-12-27,Nicholas Nickleby,5.099923,0.0,6.8,49.0,Adventure,20.0
+3,Anne Hathaway,2004-04-09,Ella Enchanted,22.71592,27388767.0,5.9,437.0,Family,22.0
+4,Anne Hathaway,2004-08-06,The Princess Diaries 2: Royal Engagement,30.002907,95149435.0,6.0,697.0,Comedy,22.0
+5,Anne Hathaway,2005-09-02,Brokeback Mountain,44.135568,178043761.0,7.5,1480.0,Drama,23.0
+6,Anne Hathaway,2005-12-16,Hoodwinked!,23.980329,51053787.0,5.9,479.0,Animation,23.0
+7,Anne Hathaway,2006-06-30,The Devil Wears Prada,83.89325699999998,326551094.0,7.0,3088.0,Comedy,24.0
+8,Anne Hathaway,2007-03-02,Becoming Jane,18.236284,37311672.0,6.9,317.0,Drama,25.0
+9,Anne Hathaway,2008-06-19,Get Smart,23.496054,230685453.0,6.0,1051.0,Action,26.0
+10,Anne Hathaway,2008-10-03,Rachel Getting Married,14.345428,0.0,6.1,163.0,Drama,26.0
+11,Anne Hathaway,2009-01-09,Bride Wars,33.385428999999995,114663461.0,5.9,856.0,Comedy,27.0
+12,Anne Hathaway,2010-02-10,Valentine's Day,25.41929,216485654.0,5.7,1013.0,Comedy,28.0
+13,Anne Hathaway,2010-03-03,Alice in Wonderland,78.530105,1025491110.0,6.4,4645.0,Family,28.0
+14,Anne Hathaway,2010-11-22,Love & Other Drugs,20.236951,102820008.0,6.6,1233.0,Drama,28.0
+15,Anne Hathaway,2011-03-02,One Day,16.629173,59389433.0,7.0,978.0,Drama,29.0
+16,Anne Hathaway,2011-04-03,Rio,46.200041999999996,484635760.0,6.5,2166.0,Animation,29.0
+17,Anne Hathaway,2012-07-16,The Dark Knight Rises,112.31295,1084939099.0,7.6,9106.0,Action,30.0
+18,Anne Hathaway,2012-12-18,Les Misérables,48.356214,441809770.0,7.1,1884.0,Drama,30.0
+19,Anne Hathaway,2014-01-20,Song One,6.3492180000000005,32251.0,5.5,87.0,Drama,32.0
+20,Anne Hathaway,2014-03-19,Rio 2,42.400240000000004,500188435.0,6.3,978.0,Animation,32.0
+21,Anne Hathaway,2014-11-05,Interstellar,724.247784,675120017.0,8.1,10867.0,Adventure,32.0
+22,Anne Hathaway,2015-09-24,The Intern,53.114573,194564672.0,7.1,1881.0,Comedy,33.0
+23,Anne Hathaway,2016-05-25,Alice Through the Looking Glass,56.268916000000004,299370084.0,6.5,1725.0,Fantasy,34.0
+0,Kate Winslet,1994-09-02,Heavenly Creatures,8.753409,3049135.0,7.0,294.0,Drama,19.0
+1,Kate Winslet,1995-12-13,Sense and Sensibility,20.898711,135000000.0,7.2,352.0,Drama,20.0
+2,Kate Winslet,1996-12-25,Hamlet,9.814785,0.0,7.3,117.0,Drama,21.0
+3,Kate Winslet,1997-11-18,Titanic,100.025899,1845034188.0,7.5,7562.0,Drama,22.0
+4,Kate Winslet,2000-11-22,Quills,7.261196000000001,7060876.0,6.8,128.0,Drama,25.0
+5,Kate Winslet,2001-12-14,Iris,2.714043,0.0,6.2,47.0,Drama,26.0
+6,Kate Winslet,2003-02-21,The Life of David Gale,22.442241,38955598.0,7.3,480.0,Drama,28.0
+7,Kate Winslet,2004-03-19,Eternal Sunshine of the Spotless Mind,56.481487,72258126.0,7.9,3652.0,Science Fiction,29.0
+8,Kate Winslet,2004-10-17,Finding Neverland,34.160447999999995,116766556.0,7.2,1223.0,Drama,29.0
+9,Kate Winslet,2005-09-13,Romance & Cigarettes,4.056774,2945242.0,6.0,33.0,Comedy,30.0
+10,Kate Winslet,2006-09-10,All the King's Men,7.768223,9450897.0,5.7,95.0,Drama,31.0
+11,Kate Winslet,2006-10-06,Little Children,11.942862,14821658.0,6.9,240.0,Romance,31.0
+12,Kate Winslet,2006-10-22,Flushed Away,22.550135,64459316.0,6.0,874.0,Adventure,31.0
+13,Kate Winslet,2006-12-08,The Holiday,44.967453000000006,194168700.0,6.7,1225.0,Comedy,31.0
+14,Kate Winslet,2008-12-10,The Reader,33.923786,113019290.0,7.2,813.0,Drama,33.0
+15,Kate Winslet,2008-12-19,Revolutionary Road,20.360549,75225693.0,6.7,796.0,Drama,33.0
+16,Kate Winslet,2011-09-08,Contagion,38.820858,137551594.0,6.2,1325.0,Drama,36.0
+17,Kate Winslet,2011-09-16,Carnage,20.011435000000002,27603069.0,7.0,738.0,Comedy,36.0
+18,Kate Winslet,2013-01-01,Movie 43,35.35030300000001,32438988.0,4.4,797.0,Comedy,38.0
+19,Kate Winslet,2013-12-27,Labor Day,17.683563,20275812.0,6.7,299.0,Drama,38.0
+20,Kate Winslet,2014-03-14,Divergent,80.316463,288747895.0,6.9,4663.0,Adventure,39.0
+21,Kate Winslet,2015-03-18,Insurgent,103.71838699999999,295238201.0,6.2,3829.0,Adventure,40.0
+22,Kate Winslet,2015-10-09,Steve Jobs,53.670525,34441873.0,6.8,1573.0,Drama,40.0
+23,Kate Winslet,2016-02-19,Triple 9,29.371987,12639297.0,5.6,797.0,Action,41.0
+0,Kirsten Dunst,1994-11-11,Interview with the Vampire,50.163785,223664608.0,7.2,1516.0,Horror,12.0
+1,Kirsten Dunst,1994-12-21,Little Women,16.418639000000002,0.0,7.0,215.0,Drama,12.0
+2,Kirsten Dunst,1997-11-20,Anastasia,45.565917999999996,139804348.0,7.4,1432.0,Animation,15.0
+3,Kirsten Dunst,1997-12-25,Wag the Dog,13.581966,64256513.0,6.7,270.0,Comedy,15.0
+4,Kirsten Dunst,1998-07-10,Small Soldiers,23.088570999999998,54682547.0,6.2,511.0,Comedy,16.0
+5,Kirsten Dunst,1999-04-21,The Virgin Suicides,26.218912,10409377.0,7.1,817.0,Drama,17.0
+6,Kirsten Dunst,1999-07-23,Drop Dead Gorgeous,6.736274000000001,10571408.0,6.4,86.0,Comedy,17.0
+7,Kirsten Dunst,1999-08-04,Dick,4.7425370000000004,27500000.0,5.7,67.0,Comedy,17.0
+8,Kirsten Dunst,2000-08-25,Bring It On,14.754281,90449929.0,5.8,568.0,Comedy,18.0
+9,Kirsten Dunst,2001-03-08,Get Over It,11.592129,0.0,5.5,75.0,Comedy,19.0
+10,Kirsten Dunst,2001-06-29,Crazy/Beautiful,6.130096,16929123.0,6.6,96.0,Drama,19.0
+11,Kirsten Dunst,2002-05-01,Spider-Man,82.502566,821708551.0,6.8,5265.0,Fantasy,20.0
+12,Kirsten Dunst,2003-12-19,Mona Lisa Smile,19.718544,0.0,6.5,393.0,Drama,21.0
+13,Kirsten Dunst,2004-03-19,Eternal Sunshine of the Spotless Mind,56.481487,72258126.0,7.9,3652.0,Science Fiction,22.0
+14,Kirsten Dunst,2004-06-25,Spider-Man 2,35.149586,783766341.0,6.7,4321.0,Action,22.0
+15,Kirsten Dunst,2004-09-13,Wimbledon,16.736734,41512007.0,6.0,293.0,Comedy,22.0
+16,Kirsten Dunst,2005-10-06,Elizabethtown,22.894898,52034889.0,6.1,327.0,Comedy,23.0
+17,Kirsten Dunst,2006-05-24,Marie Antoinette,22.364549,60474340.0,6.5,642.0,Drama,24.0
+18,Kirsten Dunst,2007-05-01,Spider-Man 3,115.69981399999999,890871626.0,5.9,3576.0,Fantasy,25.0
+19,Kirsten Dunst,2010-12-03,All Good Things,20.086645,0.0,5.9,286.0,Drama,28.0
+20,Kirsten Dunst,2011-05-26,Melancholia,36.173598,21817298.0,7.0,885.0,Drama,29.0
+21,Kirsten Dunst,2012-05-22,On the Road,14.613152,8784318.0,5.5,301.0,Adventure,30.0
+22,Kirsten Dunst,2012-08-06,Bachelorette,20.952820000000006,11947954.0,5.3,444.0,Comedy,30.0
+23,Kirsten Dunst,2016-02-18,Midnight Special,32.717853000000005,6212282.0,6.2,694.0,Adventure,34.0
+0,Patricia Clarkson,1987-06-02,The Untouchables,38.272889,76270454.0,7.6,1384.0,Crime,28.0
+1,Patricia Clarkson,1999-02-05,Simply Irresistible,5.696491,4398989.0,5.5,52.0,Comedy,40.0
+2,Patricia Clarkson,1999-12-10,The Green Mile,103.698022,284600000.0,8.2,4048.0,Fantasy,40.0
+3,Patricia Clarkson,2001-01-09,The Pledge,12.495436,29400000.0,6.5,215.0,Crime,42.0
+4,Patricia Clarkson,2002-05-24,Welcome to Collinwood,3.582733,0.0,6.2,50.0,Comedy,43.0
+5,Patricia Clarkson,2002-09-01,Far from Heaven,9.982885000000001,29027914.0,6.9,144.0,Drama,43.0
+6,Patricia Clarkson,2003-01-19,Pieces of April,4.270596,0.0,6.4,64.0,Comedy,44.0
+7,Patricia Clarkson,2003-01-26,The Station Agent,11.578545,8679814.0,7.4,210.0,Drama,44.0
+8,Patricia Clarkson,2003-08-01,All the Real Girls,3.65924,0.0,5.9,30.0,Drama,44.0
+9,Patricia Clarkson,2004-02-06,Miracle,7.534003,64445708.0,7.0,159.0,Drama,45.0
+10,Patricia Clarkson,2005-09-16,"Good Night, and Good Luck.",17.717681,54600000.0,6.8,273.0,Drama,46.0
+11,Patricia Clarkson,2006-09-10,All the King's Men,7.768223,9450897.0,5.7,95.0,Drama,47.0
+12,Patricia Clarkson,2007-07-25,No Reservations,15.794946,92601050.0,6.1,327.0,Comedy,48.0
+13,Patricia Clarkson,2007-09-12,Married Life,3.004432,0.0,6.1,38.0,Crime,48.0
+14,Patricia Clarkson,2007-10-12,Lars and the Real Girl,15.817096,11293663.0,7.1,509.0,Comedy,48.0
+15,Patricia Clarkson,2008-08-15,Vicky Cristina Barcelona,32.758254,96408652.0,6.7,1020.0,Drama,49.0
+16,Patricia Clarkson,2009-06-19,Whatever Works,21.857387,35097815.0,6.8,350.0,Comedy,50.0
+17,Patricia Clarkson,2010-02-18,Shutter Island,81.91469599999998,294804195.0,7.8,6336.0,Drama,51.0
+18,Patricia Clarkson,2010-09-10,Easy A,45.395839,74952305.0,6.7,2210.0,Comedy,51.0
+19,Patricia Clarkson,2011-03-02,One Day,16.629173,59389433.0,7.0,978.0,Drama,52.0
+20,Patricia Clarkson,2011-07-21,Friends with Benefits,40.526587,150483765.0,6.5,2237.0,Romance,52.0
+21,Patricia Clarkson,2013-05-31,The East,16.574756,2401510.0,6.5,305.0,Drama,54.0
+22,Patricia Clarkson,2015-09-09,Maze Runner: The Scorch Trials,113.161483,311256926.0,6.4,3040.0,Action,56.0
+0,Kristen Wiig,2007-09-07,The Brothers Solomon,8.312153,0.0,4.9,46.0,Comedy,34.0
+1,Kristen Wiig,2007-12-21,Walk Hard: The Dewey Cox Story,10.73522,18317151.0,6.6,212.0,Comedy,34.0
+2,Kristen Wiig,2009-04-03,Adventureland,19.978021,17164377.0,6.4,737.0,Comedy,36.0
+3,Kristen Wiig,2009-06-29,Ice Age: Dawn of the Dinosaurs,69.457898,886686817.0,6.5,2271.0,Animation,36.0
+4,Kristen Wiig,2009-09-03,Extract,14.652342,10848783.0,5.7,192.0,Comedy,36.0
+5,Kristen Wiig,2009-09-13,Whip It,20.05902,16633035.0,6.7,357.0,Drama,36.0
+6,Kristen Wiig,2010-03-05,How to Train Your Dragon,67.263269,494878759.0,7.5,4227.0,Fantasy,37.0
+7,Kristen Wiig,2010-04-08,Date Night,38.061679999999996,152263880.0,5.9,1122.0,Comedy,37.0
+8,Kristen Wiig,2010-05-21,MacGruber,14.038511999999999,6110000.0,5.1,179.0,Action,37.0
+9,Kristen Wiig,2010-07-08,Despicable Me,113.858273,543513985.0,7.1,6478.0,Animation,37.0
+10,Kristen Wiig,2010-12-03,All Good Things,20.086645,0.0,5.9,286.0,Drama,37.0
+11,Kristen Wiig,2011-02-14,Paul,43.151268,97552050.0,6.5,1789.0,Adventure,38.0
+12,Kristen Wiig,2011-04-28,Bridesmaids,17.107065,288383523.0,6.5,1661.0,Comedy,38.0
+13,Kristen Wiig,2013-06-25,Despicable Me 2,136.886704,970761885.0,7.0,4637.0,Animation,40.0
+14,Kristen Wiig,2013-12-18,Anchorman 2: The Legend Continues,38.125008,173649015.0,6.0,923.0,Comedy,40.0
+15,Kristen Wiig,2013-12-18,The Secret Life of Walter Mitty,43.348022,188133322.0,7.0,3144.0,Adventure,40.0
+16,Kristen Wiig,2014-01-18,The Skeleton Twins,15.699363,5284309.0,6.7,292.0,Drama,41.0
+17,Kristen Wiig,2014-06-12,How to Train Your Dragon 2,100.21391,609123048.0,7.6,3106.0,Fantasy,41.0
+18,Kristen Wiig,2015-08-07,The Diary of a Teenage Girl,18.224326,1477002.0,6.8,279.0,Drama,42.0
+19,Kristen Wiig,2015-09-30,The Martian,167.93287,630161890.0,7.6,7268.0,Drama,42.0
+20,Kristen Wiig,2016-02-06,Zoolander 2,37.253774,55969000.0,4.7,797.0,Comedy,43.0
+21,Kristen Wiig,2016-07-11,Sausage Party,66.242737,140752617.0,5.6,2238.0,Adventure,43.0
+22,Kristen Wiig,2016-07-14,Ghostbusters,66.21806,229147509.0,5.3,2142.0,Action,43.0
+0,Queen Latifah,1991-10-23,House Party 2,3.673566000000001,0.0,4.7,21.0,Comedy,21.0
+1,Queen Latifah,1996-11-06,Set It Off,6.717994,41590886.0,6.9,66.0,Drama,26.0
+2,Queen Latifah,1998-02-13,Sphere,18.659879999999998,13100000.0,5.8,476.0,Science Fiction,28.0
+3,Queen Latifah,1998-10-30,Living Out Loud,0.700792,12902790.0,5.3,11.0,Comedy,28.0
+4,Queen Latifah,1999-11-04,The Bone Collector,33.884459,151493655.0,6.5,826.0,Drama,29.0
+5,Queen Latifah,2002-10-05,Brown Sugar,3.501158,27362712.0,7.0,31.0,Comedy,32.0
+6,Queen Latifah,2002-12-26,Chicago,32.217425,306776732.0,6.9,677.0,Action,32.0
+7,Queen Latifah,2003-03-07,Bringing Down the House,8.351385,132675402.0,5.4,183.0,Comedy,33.0
+8,Queen Latifah,2004-01-20,Barbershop 2:  Back in Business,6.5018150000000015,65070412.0,5.6,74.0,Comedy,34.0
+9,Queen Latifah,2005-06-02,Beauty Shop,5.625632,36351350.0,5.4,115.0,Comedy,35.0
+10,Queen Latifah,2006-01-13,Last Holiday,6.156015,38399961.0,6.4,119.0,Adventure,36.0
+11,Queen Latifah,2006-03-23,Ice Age: The Meltdown,85.11505799999998,660940780.0,6.5,2951.0,Animation,36.0
+12,Queen Latifah,2006-09-09,Stranger Than Fiction,32.26789,53653224.0,7.1,721.0,Comedy,36.0
+13,Queen Latifah,2007-07-13,Hairspray,31.160542,90450008.0,6.5,709.0,Family,37.0
+14,Queen Latifah,2008-01-17,Mad Money,6.847133,0.0,5.9,140.0,Action,38.0
+15,Queen Latifah,2008-05-07,What Happens in Vegas,38.100488,170000000.0,5.8,923.0,Comedy,38.0
+16,Queen Latifah,2008-09-17,The Secret Life of Bees,7.645979,38105395.0,7.4,158.0,Adventure,38.0
+17,Queen Latifah,2009-06-29,Ice Age: Dawn of the Dinosaurs,69.457898,886686817.0,6.5,2271.0,Animation,39.0
+18,Queen Latifah,2010-05-14,Just Wright,10.409253,21520719.0,6.1,99.0,Comedy,40.0
+19,Queen Latifah,2011-01-13,The Dilemma,14.780634,67112664.0,5.2,304.0,Comedy,41.0
+20,Queen Latifah,2012-01-13,Joyful Noise,5.753705,0.0,6.7,33.0,Comedy,42.0
+21,Queen Latifah,2012-06-26,Ice Age: Continental Drift,65.22986800000001,877244782.0,6.2,2672.0,Animation,42.0
+22,Queen Latifah,2016-03-17,Miracles from Heaven,10.248439,77000000.0,6.7,186.0,Drama,46.0
+0,Jennifer Lopez,1995-11-21,Money Train,10.004564,35431113.0,5.4,222.0,Action,26.0
+1,Jennifer Lopez,1996-10-03,Blood and Wine,1.492056,0.0,5.5,34.0,Crime,27.0
+2,Jennifer Lopez,1997-03-21,Selena,6.92592,60000000.0,7.0,114.0,Drama,28.0
+3,Jennifer Lopez,1997-04-11,Anaconda,27.684779,136885767.0,4.7,610.0,Adventure,28.0
+4,Jennifer Lopez,1998-06-26,Out of Sight,16.000178,77745568.0,6.5,333.0,Romance,29.0
+5,Jennifer Lopez,1998-10-02,Antz,41.51570200000001,171757863.0,6.0,1272.0,Adventure,29.0
+6,Jennifer Lopez,2000-08-17,The Cell,25.413954999999998,104155843.0,6.0,436.0,Horror,31.0
+7,Jennifer Lopez,2001-01-26,The Wedding Planner,14.949395,94728529.0,5.5,427.0,Comedy,32.0
+8,Jennifer Lopez,2001-05-15,Angel Eyes,6.4546339999999995,29700000.0,5.6,88.0,Drama,32.0
+9,Jennifer Lopez,2002-05-24,Enough,11.500783,51801187.0,6.2,264.0,Drama,33.0
+10,Jennifer Lopez,2002-12-13,Maid in Manhattan,19.738215,154906693.0,5.6,485.0,Comedy,33.0
+11,Jennifer Lopez,2003-08-01,Gigli,9.053456,7266209.0,3.5,104.0,Drama,34.0
+12,Jennifer Lopez,2004-03-25,Jersey Girl,14.699342000000001,36098382.0,5.8,325.0,Comedy,35.0
+13,Jennifer Lopez,2004-10-15,Shall We Dance?,14.231898999999999,170128460.0,5.9,297.0,Drama,35.0
+14,Jennifer Lopez,2005-05-13,Monster-in-Law,10.411996,154749918.0,5.6,406.0,Romance,36.0
+15,Jennifer Lopez,2005-09-09,An Unfinished Life,6.353971,18618284.0,6.7,161.0,Drama,36.0
+16,Jennifer Lopez,2010-04-23,The Back-Up Plan,18.382920000000002,77477008.0,5.7,458.0,Comedy,41.0
+17,Jennifer Lopez,2012-05-17,What to Expect When You're Expecting,27.009722999999997,79700000.0,5.8,594.0,Romance,43.0
+18,Jennifer Lopez,2012-06-26,Ice Age: Continental Drift,65.22986800000001,877244782.0,6.2,2672.0,Animation,43.0
+19,Jennifer Lopez,2013-01-23,Parker,28.670477,46216641.0,5.7,1455.0,Action,44.0
+20,Jennifer Lopez,2015-01-23,The Boy Next Door,24.161735,52425855.0,4.1,1022.0,Thriller,46.0
+21,Jennifer Lopez,2015-03-18,Home,63.473086,368871007.0,6.8,1519.0,Fantasy,46.0
+0,Rosario Dawson,1995-07-28,Kids,13.291991000000001,7412216.0,6.8,279.0,Drama,16.0
+1,Rosario Dawson,1998-05-01,He Got Game,10.232599,21567853.0,6.7,134.0,Drama,19.0
+2,Rosario Dawson,1999-11-04,Light It Up,1.212956,0.0,6.6,7.0,Drama,20.0
+3,Rosario Dawson,2000-01-21,Down to You,3.269459,0.0,4.9,70.0,Comedy,21.0
+4,Rosario Dawson,2001-04-06,Josie and the Pussycats,6.404571,0.0,5.3,72.0,Comedy,22.0
+5,Rosario Dawson,2002-07-03,Men in Black II,91.332849,441818803.0,6.0,3114.0,Action,23.0
+6,Rosario Dawson,2002-08-15,The Adventures of Pluto Nash,12.092241,7103973.0,4.4,142.0,Action,23.0
+7,Rosario Dawson,2002-12-16,25th Hour,30.19603900000001,13060843.0,7.2,629.0,Crime,23.0
+8,Rosario Dawson,2003-09-26,The Rundown,24.107835,80916492.0,6.4,514.0,Adventure,24.0
+9,Rosario Dawson,2003-11-14,Shattered Glass,6.27257,2944752.0,6.6,111.0,Drama,24.0
+10,Rosario Dawson,2005-04-01,Sin City,66.003433,158733820.0,7.2,2691.0,Action,26.0
+11,Rosario Dawson,2005-11-23,Rent,10.433667,31670620.0,6.7,155.0,Drama,26.0
+12,Rosario Dawson,2006-05-25,Clerks II,18.077963,26888376.0,6.9,398.0,Comedy,27.0
+13,Rosario Dawson,2007-04-06,Grindhouse,16.637642,25037897.0,6.8,459.0,Thriller,28.0
+14,Rosario Dawson,2008-09-25,Eagle Eye,46.887983,178066569.0,6.3,1018.0,Mystery,29.0
+15,Rosario Dawson,2008-12-18,Seven Pounds,41.472404,168167691.0,7.5,2039.0,Drama,29.0
+16,Rosario Dawson,2010-02-01,Percy Jackson & the Olympians: The Lightning Thief,61.121717000000004,226497209.0,6.0,2010.0,Adventure,31.0
+17,Rosario Dawson,2010-11-04,Unstoppable,37.698465,167805466.0,6.3,1165.0,Action,31.0
+18,Rosario Dawson,2011-07-06,Zookeeper,27.462640000000004,169852759.0,5.3,498.0,Comedy,32.0
+19,Rosario Dawson,2013-03-27,Trance,38.802415,24261569.0,6.5,956.0,Thriller,34.0
+20,Rosario Dawson,2014-08-20,Sin City: A Dame to Kill For,85.428395,39407616.0,6.3,1286.0,Crime,35.0
+21,Rosario Dawson,2014-12-12,Top Five,15.896312,25434291.0,6.3,210.0,Drama,35.0
+0,Helena Bonham Carter,1985-12-13,A Room with a View,7.9615589999999985,20966644.0,6.9,156.0,Drama,19.0
+1,Helena Bonham Carter,1992-03-13,Howards End,5.8973910000000025,25966555.0,6.9,95.0,Drama,26.0
+2,Helena Bonham Carter,1999-10-15,Fight Club,146.75739099999996,100853753.0,8.3,9413.0,Drama,33.0
+3,Helena Bonham Carter,2001-07-25,Planet of the Apes,51.188633,362211740.0,5.6,1243.0,Thriller,35.0
+4,Helena Bonham Carter,2001-11-23,Novocaine,4.1482529999999995,2025238.0,6.0,44.0,Comedy,35.0
+5,Helena Bonham Carter,2002-01-01,The Heart of Me,1.498245,0.0,7.7,5.0,Drama,36.0
+6,Helena Bonham Carter,2003-12-25,Big Fish,46.199482,122919055.0,7.6,1994.0,Adventure,37.0
+7,Helena Bonham Carter,2005-07-13,Charlie and the Chocolate Factory,53.90559200000001,474968763.0,6.7,3624.0,Adventure,39.0
+8,Helena Bonham Carter,2005-09-04,The Curse of the Were-Rabbit,30.380746999999996,192452832.0,6.8,643.0,Adventure,39.0
+9,Helena Bonham Carter,2005-09-09,Corpse Bride,43.571612,117195061.0,7.2,1894.0,Romance,39.0
+10,Helena Bonham Carter,2006-06-07,Conversations with Other Women,4.442355,973525.0,6.2,38.0,Drama,40.0
+11,Helena Bonham Carter,2007-06-28,Harry Potter and the Order of the Phoenix,78.14439499999997,938212738.0,7.4,5494.0,Adventure,41.0
+12,Helena Bonham Carter,2009-05-20,Terminator Salvation,71.862892,371353001.0,5.9,2463.0,Action,43.0
+13,Helena Bonham Carter,2009-07-07,Harry Potter and the Half-Blood Prince,98.885637,933959197.0,7.4,5293.0,Adventure,43.0
+14,Helena Bonham Carter,2010-03-03,Alice in Wonderland,78.530105,1025491110.0,6.4,4645.0,Family,44.0
+15,Helena Bonham Carter,2010-09-06,The King's Speech,54.053576,414211549.0,7.6,2752.0,Drama,44.0
+16,Helena Bonham Carter,2012-05-08,Dark Shadows,50.306728,245527149.0,5.7,2320.0,Comedy,46.0
+17,Helena Bonham Carter,2012-12-18,Les Misérables,48.356214,441809770.0,7.1,1884.0,Drama,46.0
+18,Helena Bonham Carter,2013-07-03,The Lone Ranger,49.046956,89289910.0,5.9,2311.0,Action,47.0
+19,Helena Bonham Carter,2013-10-16,The Young and Prodigious T.S. Spivet,10.651202,9494789.0,6.7,232.0,Adventure,47.0
+20,Helena Bonham Carter,2015-03-12,Cinderella,101.18705200000001,543514353.0,6.7,2374.0,Romance,49.0
+21,Helena Bonham Carter,2016-05-25,Alice Through the Looking Glass,56.268916000000004,299370084.0,6.5,1725.0,Fantasy,50.0
+0,Naomi Watts,1995-03-31,Tank Girl,8.186936,4064495.0,5.5,138.0,Action,27.0
+1,Naomi Watts,2001-05-16,Mulholland Drive,31.60985,20117339.0,7.6,1477.0,Thriller,33.0
+2,Naomi Watts,2003-09-06,21 Grams,32.243357,60427839.0,7.2,918.0,Drama,35.0
+3,Naomi Watts,2004-09-10,I Heart Huckabees,14.925633,0.0,6.2,239.0,Comedy,36.0
+4,Naomi Watts,2005-03-17,The Ring Two,32.233713,161451538.0,5.4,632.0,Drama,37.0
+5,Naomi Watts,2005-12-14,King Kong,61.226009999999995,550000000.0,6.6,2337.0,Adventure,37.0
+6,Naomi Watts,2006-12-09,The Painted Veil,20.746932,0.0,7.1,312.0,Drama,38.0
+7,Naomi Watts,2007-09-14,Eastern Promises,35.481169,55112356.0,7.2,848.0,Thriller,39.0
+8,Naomi Watts,2007-10-20,Funny Games,15.175289000000001,7938872.0,6.3,545.0,Horror,39.0
+9,Naomi Watts,2009-02-03,The International,13.391832999999998,60161391.0,6.0,368.0,Drama,41.0
+10,Naomi Watts,2009-11-07,Mother and Child,5.517597,0.0,6.7,46.0,Drama,41.0
+11,Naomi Watts,2010-05-20,Fair Game,12.549489999999999,24188922.0,6.5,235.0,Drama,42.0
+12,Naomi Watts,2010-05-23,You Will Meet a Tall Dark Stranger,12.4654,0.0,5.8,251.0,Comedy,42.0
+13,Naomi Watts,2011-09-30,Dream House,19.267479,38502340.0,5.8,391.0,Drama,43.0
+14,Naomi Watts,2011-11-09,J. Edgar,28.069419,84606030.0,6.0,741.0,Drama,43.0
+15,Naomi Watts,2012-09-09,The Impossible,47.559928,180274123.0,7.0,2025.0,Thriller,44.0
+16,Naomi Watts,2013-04-03,Adore,18.790221,318982.0,6.1,291.0,Drama,45.0
+17,Naomi Watts,2014-08-27,Birdman,89.811154,103215094.0,7.4,4535.0,Drama,46.0
+18,Naomi Watts,2014-10-09,St. Vincent,43.791745,54837234.0,7.1,763.0,Comedy,46.0
+19,Naomi Watts,2015-03-18,Insurgent,103.71838699999999,295238201.0,6.2,3829.0,Adventure,47.0
+20,Naomi Watts,2015-04-03,While We're Young,19.263476999999998,7587485.0,5.8,383.0,Comedy,47.0
+21,Naomi Watts,2016-03-09,Allegiant,86.105615,179246868.0,5.9,1998.0,Adventure,48.0
+0,Joan Cusack,1997-04-11,Grosse Pointe Blank,13.817269,28084357.0,6.9,275.0,Action,35.0
+1,Joan Cusack,1997-09-10,In & Out,11.897925,0.0,6.3,177.0,Comedy,35.0
+2,Joan Cusack,1999-03-19,Arlington Road,12.819447,0.0,7.0,239.0,Drama,37.0
+3,Joan Cusack,1999-07-30,Runaway Bride,20.230535,309457509.0,5.7,455.0,Comedy,37.0
+4,Joan Cusack,1999-10-30,Toy Story 2,73.575118,497366869.0,7.3,3806.0,Animation,37.0
+5,Joan Cusack,1999-12-10,Cradle Will Rock,4.901553,0.0,7.2,18.0,Drama,37.0
+6,Joan Cusack,2000-03-17,High Fidelity,23.982956,47126295.0,7.0,628.0,Comedy,38.0
+7,Joan Cusack,2000-04-27,Where the Heart Is,6.8579229999999995,33771174.0,6.9,155.0,Comedy,38.0
+8,Joan Cusack,2003-10-03,School of Rock,43.057323,131282949.0,6.7,1414.0,Comedy,41.0
+9,Joan Cusack,2003-11-14,Looney Tunes: Back in Action,16.715631,68514844.0,5.6,297.0,Animation,41.0
+10,Joan Cusack,2004-05-27,Raising Helen,13.298205,49718611.0,5.9,189.0,Drama,42.0
+11,Joan Cusack,2005-03-17,Ice Princess,13.288177,27645491.0,5.9,185.0,Drama,43.0
+12,Joan Cusack,2005-11-04,Chicken Little,47.973995,314432665.0,5.6,944.0,Animation,43.0
+13,Joan Cusack,2006-09-07,Friends with Money,11.885221000000001,13368437.0,5.1,128.0,Comedy,44.0
+14,Joan Cusack,2007-11-02,Martian Child,5.737161,0.0,6.8,79.0,Drama,45.0
+15,Joan Cusack,2008-04-28,"War, Inc.",6.265658999999999,1296184.0,5.6,86.0,Action,46.0
+16,Joan Cusack,2008-07-02,Kit Kittredge: An American Girl,6.2714099999999995,0.0,6.4,34.0,Comedy,46.0
+17,Joan Cusack,2009-06-26,My Sister's Keeper,24.09152000000001,95714875.0,7.1,598.0,Drama,47.0
+18,Joan Cusack,2010-06-16,Toy Story 3,59.99541800000001,1066969703.0,7.6,4597.0,Animation,48.0
+19,Joan Cusack,2011-03-09,Mars Needs Moms,12.362599000000001,38992758.0,5.5,199.0,Adventure,49.0
+20,Joan Cusack,2011-04-29,Hoodwinked Too! Hood VS. Evil,10.694417,13521829.0,4.8,131.0,Comedy,49.0
+21,Joan Cusack,2012-09-20,The Perks of Being a Wallflower,43.444134999999996,33400000.0,7.7,2968.0,Drama,50.0
+0,Amanda Peet,1996-08-26,She's the One,8.406025,9482579.0,5.7,70.0,Comedy,24.0
+1,Amanda Peet,1999-02-05,Simply Irresistible,5.696491,4398989.0,5.5,52.0,Comedy,27.0
+2,Amanda Peet,2000-01-28,Isn't She Great,1.068453,3003296.0,4.6,14.0,Drama,28.0
+3,Amanda Peet,2000-02-18,The Whole Nine Yards,23.441135,106371651.0,6.2,531.0,Comedy,28.0
+4,Amanda Peet,2000-09-01,Whipped,2.144354,0.0,3.1,11.0,Comedy,28.0
+5,Amanda Peet,2001-02-09,Saving Silverman,12.887673,19351569.0,5.4,154.0,Comedy,29.0
+6,Amanda Peet,2002-04-03,High Crimes,14.046705,63781810.0,6.1,184.0,Drama,30.0
+7,Amanda Peet,2002-04-07,Changing Lanes,17.270539000000007,94935764.0,5.9,299.0,Action,30.0
+8,Amanda Peet,2002-09-13,Igby Goes Down,2.062087,4777465.0,6.5,95.0,Comedy,30.0
+9,Amanda Peet,2003-04-25,Identity,45.915165,90259536.0,7.1,1061.0,Mystery,31.0
+10,Amanda Peet,2003-12-12,Something's Gotta Give,16.939441,266728738.0,6.3,410.0,Drama,31.0
+11,Amanda Peet,2004-04-07,The Whole Ten Yards,14.729385999999998,26155781.0,5.5,278.0,Comedy,32.0
+12,Amanda Peet,2005-04-22,A Lot Like Love,19.212552,42886719.0,6.5,318.0,Comedy,33.0
+13,Amanda Peet,2005-11-23,Syriana,16.871194,94000000.0,6.3,451.0,Drama,33.0
+14,Amanda Peet,2007-11-02,Martian Child,5.737161,0.0,6.8,79.0,Drama,35.0
+15,Amanda Peet,2008-07-24,The X Files: I Want to Believe,25.454549,68369434.0,5.5,523.0,Drama,36.0
+16,Amanda Peet,2009-10-10,2012,45.274225,769653595.0,5.6,4903.0,Action,37.0
+17,Amanda Peet,2010-01-22,Please Give,5.325156,0.0,6.0,57.0,Comedy,38.0
+18,Amanda Peet,2010-12-25,Gulliver's Travels,22.845143,237382724.0,4.9,621.0,Comedy,38.0
+19,Amanda Peet,2013-02-07,Identity Thief,34.005726,173965010.0,5.6,1645.0,Comedy,41.0
+20,Amanda Peet,2013-06-06,The Way Way Back,32.14444,23198652.0,7.1,688.0,Comedy,41.0
+0,Helen Mirren,1997-10-31,Critical Care,2.678715,0.0,6.1,9.0,Comedy,52.0
+1,Helen Mirren,1998-12-15,The Prince of Egypt,29.464852,218613188.0,6.8,817.0,Adventure,53.0
+2,Helen Mirren,2001-01-09,The Pledge,12.495436,29400000.0,6.5,215.0,Crime,56.0
+3,Helen Mirren,2001-09-10,Last Orders,3.6038419999999998,0.0,6.0,22.0,Comedy,56.0
+4,Helen Mirren,2001-11-07,Gosford Park,11.693272,87754044.0,6.8,246.0,Drama,56.0
+5,Helen Mirren,2004-05-27,Raising Helen,13.298205,49718611.0,5.9,189.0,Drama,59.0
+6,Helen Mirren,2005-01-15,The Hitchhiker's Guide to the Galaxy,51.742065000000004,104478416.0,6.6,1315.0,Adventure,60.0
+7,Helen Mirren,2006-09-15,The Queen,19.113278,123384128.0,6.8,338.0,Drama,61.0
+8,Helen Mirren,2008-12-11,Inkheart,27.018886,57490374.0,6.0,592.0,Adventure,63.0
+9,Helen Mirren,2009-04-17,State of Play,21.685719,87784194.0,6.7,484.0,Action,64.0
+10,Helen Mirren,2009-09-04,The Last Station,3.6592919999999998,0.0,6.7,55.0,Drama,64.0
+11,Helen Mirren,2010-04-11,The Debt,14.857884,45636368.0,6.3,257.0,Drama,65.0
+12,Helen Mirren,2010-06-30,Love Ranch,5.000126,0.0,6.0,21.0,Drama,65.0
+13,Helen Mirren,2010-07-10,Legend of the Guardians: The Owls of Ga'Hoole,37.321847999999996,140073390.0,6.5,703.0,Animation,65.0
+14,Helen Mirren,2010-09-13,Brighton Rock,3.1221520000000003,0.0,5.6,35.0,Drama,65.0
+15,Helen Mirren,2010-10-13,RED,41.430245,71664962.0,6.6,2808.0,Action,65.0
+16,Helen Mirren,2010-12-10,The Tempest,3.620537,346594.0,6.0,31.0,Drama,65.0
+17,Helen Mirren,2013-06-20,Monsters University,89.186492,743559607.0,7.0,3528.0,Animation,68.0
+18,Helen Mirren,2013-07-18,RED 2,44.34333,0.0,6.4,1526.0,Action,68.0
+19,Helen Mirren,2014-08-06,The Hundred-Foot Journey,27.898438,88880821.0,7.3,508.0,Drama,69.0
+20,Helen Mirren,2015-04-10,Woman in Gold,21.204929,61619773.0,7.3,440.0,Drama,70.0
+0,Gwyneth Paltrow,1995-03-31,Jefferson in Paris,0.900442,2474000.0,5.2,10.0,Drama,23.0
+1,Gwyneth Paltrow,1995-09-22,Se7en,79.579532,327311859.0,8.1,5765.0,Crime,23.0
+2,Gwyneth Paltrow,1996-05-03,The Pallbearer,2.149469,0.0,4.6,30.0,Comedy,24.0
+3,Gwyneth Paltrow,1998-04-23,Sliding Doors,15.639016,58000000.0,6.5,354.0,Comedy,26.0
+4,Gwyneth Paltrow,1998-12-11,Shakespeare in Love,31.792964,289317794.0,6.8,796.0,Romance,26.0
+5,Gwyneth Paltrow,1999-12-25,The Talented Mr. Ripley,31.385257,128798265.0,7.0,767.0,Thriller,27.0
+6,Gwyneth Paltrow,2000-09-09,Duets,2.25453,0.0,5.5,34.0,Comedy,28.0
+7,Gwyneth Paltrow,2001-10-05,The Royal Tenenbaums,24.13081,71441250.0,7.4,1286.0,Comedy,29.0
+8,Gwyneth Paltrow,2001-11-01,Shallow Hal,29.854772999999998,141069860.0,5.7,731.0,Comedy,29.0
+9,Gwyneth Paltrow,2004-09-17,Sky Captain and the World of Tomorrow,24.664776,57958696.0,5.7,439.0,Mystery,32.0
+10,Gwyneth Paltrow,2006-10-27,Running with Scissors,4.770194999999998,6754898.0,5.8,78.0,Drama,34.0
+11,Gwyneth Paltrow,2006-11-16,Infamous,3.6808959999999997,1151330.0,6.4,60.0,Drama,34.0
+12,Gwyneth Paltrow,2007-01-25,The Good Night,12.185203999999999,20380.0,5.7,41.0,Comedy,35.0
+13,Gwyneth Paltrow,2008-04-30,Iron Man,120.725053,585174222.0,7.4,8776.0,Action,36.0
+14,Gwyneth Paltrow,2008-11-19,Two Lovers,8.290636,3148182.0,6.6,154.0,Drama,36.0
+15,Gwyneth Paltrow,2010-04-28,Iron Man 2,77.30019399999998,623933331.0,6.6,6849.0,Adventure,38.0
+16,Gwyneth Paltrow,2010-12-22,Country Strong,7.809701,20529194.0,5.9,80.0,Drama,38.0
+17,Gwyneth Paltrow,2011-08-11,Glee: The Concert Movie,9.933926,18663238.0,6.8,79.0,Documentary,39.0
+18,Gwyneth Paltrow,2011-09-08,Contagion,38.820858,137551594.0,6.2,1325.0,Drama,39.0
+19,Gwyneth Paltrow,2013-04-18,Iron Man 3,77.68208,1215439994.0,6.8,8806.0,Action,41.0
+20,Gwyneth Paltrow,2015-01-21,Mortdecai,52.417528999999995,30418560.0,5.4,1055.0,Comedy,43.0

@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Nov 22 17:40:08 PST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0175-f2c2-18a2-0000019a1080 
+on database directory memory:/Users/emilychristiansen/Desktop/DSCI-551/Project/shiny_app/dsci551project/testing_format/databaseName=metastore_db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@55054057 
+Loaded from file:/Users/emilychristiansen/spark/spark-3.0.0-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=/Users/emilychristiansen/Desktop/DSCI-551/Project/shiny_app/dsci551project/testing_format
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.15.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
